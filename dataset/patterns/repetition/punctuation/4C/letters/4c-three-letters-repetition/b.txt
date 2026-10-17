@@ -1,0 +1,9 @@
+b-bb
+b.bb
+b_bb
+bb-b
+bb.b
+bb_b
+bbb-
+bbb.
+bbb_

@@ -1,0 +1,9 @@
+d-dd
+d.dd
+d_dd
+dd-d
+dd.d
+dd_d
+ddd-
+ddd.
+ddd_

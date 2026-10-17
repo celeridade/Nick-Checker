@@ -1,0 +1,6 @@
+x-x
+x.x
+x_x
+xx-
+xx.
+xx_

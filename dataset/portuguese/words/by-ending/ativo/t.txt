@@ -1,0 +1,4 @@
+taxativo
+tempestivo
+terminativo
+transitivo

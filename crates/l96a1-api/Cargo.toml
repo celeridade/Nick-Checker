@@ -1,0 +1,28 @@
+[package]
+name = "l96a1-api"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+
+[[bin]]
+name = "l96a1-api"
+path = "src/main.rs"
+
+[dependencies]
+l96a1-core = { path = "../l96a1-core" }
+l96a1-proxy = { path = "../l96a1-proxy" }
+l96a1-dataset = { path = "../l96a1-dataset" }
+l96a1-checkers = { path = "../l96a1-checkers" }
+l96a1-bot = { path = "../l96a1-bot" }
+tokio.workspace = true
+reqwest.workspace = true
+serde.workspace = true
+serde_json.workspace = true
+futures.workspace = true
+axum.workspace = true
+tower-http.workspace = true
+tokio-stream.workspace = true
+tracing.workspace = true
+tracing-subscriber.workspace = true
+chrono.workspace = true
+dotenvy.workspace = true

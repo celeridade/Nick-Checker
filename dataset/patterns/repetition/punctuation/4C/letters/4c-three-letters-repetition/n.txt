@@ -1,0 +1,9 @@
+n-nn
+n.nn
+n_nn
+nn-n
+nn.n
+nn_n
+nnn-
+nnn.
+nnn_

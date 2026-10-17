@@ -1,0 +1,989 @@
+rank	gender	gender_pct	name	slug	username	incidence	frequency_1x	source_url
+1	u	0	da Silva	da_silva	dasilva	12585868	17	https://forebears.io/brazil/surnames
+2	u	0	dos Santos	dos_santos	dossantos	7427753	29	https://forebears.io/brazil/surnames
+3	u	0	Pereira	pereira	pereira	5594058	38	https://forebears.io/brazil/surnames
+4	u	0	Alves	alves	alves	4872987	44	https://forebears.io/brazil/surnames
+5	u	0	Ferreira	ferreira	ferreira	4848931	44	https://forebears.io/brazil/surnames
+6	u	0	Rodrigues	rodrigues	rodrigues	4197229	51	https://forebears.io/brazil/surnames
+7	u	0	Silva	silva	silva	4080029	52	https://forebears.io/brazil/surnames
+8	u	0	de Oliveira	de_oliveira	deoliveira	3972807	54	https://forebears.io/brazil/surnames
+9	u	0	de Souza	de_souza	desouza	3598845	59	https://forebears.io/brazil/surnames
+10	u	0	Gomes	gomes	gomes	2911536	74	https://forebears.io/brazil/surnames
+11	u	0	Santos	santos	santos	2902750	74	https://forebears.io/brazil/surnames
+12	u	0	Oliveira	oliveira	oliveira	2302086	93	https://forebears.io/brazil/surnames
+13	u	0	Ribeiro	ribeiro	ribeiro	2108131	102	https://forebears.io/brazil/surnames
+14	u	0	de Jesus	de_jesus	dejesus	1963741	109	https://forebears.io/brazil/surnames
+15	u	0	Soares	soares	soares	1786065	120	https://forebears.io/brazil/surnames
+16	u	0	Martins	martins	martins	1739143	123	https://forebears.io/brazil/surnames
+17	u	0	Barbosa	barbosa	barbosa	1711235	125	https://forebears.io/brazil/surnames
+18	u	0	Vieira	vieira	vieira	1566819	137	https://forebears.io/brazil/surnames
+19	u	0	Souza	souza	souza	1548475	138	https://forebears.io/brazil/surnames
+20	u	0	Lopes	lopes	lopes	1536740	139	https://forebears.io/brazil/surnames
+21	u	0	Lima	lima	lima	1511714	142	https://forebears.io/brazil/surnames
+22	u	0	Batista	batista	batista	1457078	147	https://forebears.io/brazil/surnames
+23	u	0	Fernandes	fernandes	fernandes	1431583	150	https://forebears.io/brazil/surnames
+24	u	0	Costa	costa	costa	1395868	153	https://forebears.io/brazil/surnames
+25	u	0	de Sousa	de_sousa	desousa	1303835	164	https://forebears.io/brazil/surnames
+26	u	0	Dias	dias	dias	1281719	167	https://forebears.io/brazil/surnames
+27	u	0	da Conceiçao	da_conceiçao	daconceicao	1228358	174	https://forebears.io/brazil/surnames
+28	u	0	de Lima	de_lima	delima	1208390	177	https://forebears.io/brazil/surnames
+29	u	0	do Nascimento	do_nascimento	donascimento	1102256	194	https://forebears.io/brazil/surnames
+30	u	0	Moreira	moreira	moreira	1086513	197	https://forebears.io/brazil/surnames
+31	u	0	Nunes	nunes	nunes	1061865	202	https://forebears.io/brazil/surnames
+32	u	0	da Costa	da_costa	dacosta	1031067	208	https://forebears.io/brazil/surnames
+33	u	0	Araujo	araujo	araujo	975453	219	https://forebears.io/brazil/surnames
+34	u	0	Marques	marques	marques	926646	231	https://forebears.io/brazil/surnames
+35	u	0	Cardoso	cardoso	cardoso	921343	232	https://forebears.io/brazil/surnames
+36	u	0	de Almeida	de_almeida	dealmeida	901694	237	https://forebears.io/brazil/surnames
+37	u	0	Mendes	mendes	mendes	885997	242	https://forebears.io/brazil/surnames
+38	u	0	Nascimento	nascimento	nascimento	852367	251	https://forebears.io/brazil/surnames
+39	u	0	Teixeira	teixeira	teixeira	831731	257	https://forebears.io/brazil/surnames
+40	u	0	Ramos	ramos	ramos	827932	259	https://forebears.io/brazil/surnames
+41	u	0	Carvalho	carvalho	carvalho	799060	268	https://forebears.io/brazil/surnames
+42	u	0	Rosa	rosa	rosa	781223	274	https://forebears.io/brazil/surnames
+43	u	0	Almeida	almeida	almeida	760825	281	https://forebears.io/brazil/surnames
+44	u	0	Sousa	sousa	sousa	739713	289	https://forebears.io/brazil/surnames
+45	u	0	Machado	machado	machado	737478	290	https://forebears.io/brazil/surnames
+46	u	0	Rocha	rocha	rocha	722121	296	https://forebears.io/brazil/surnames
+47	u	0	Santana	santana	santana	698062	307	https://forebears.io/brazil/surnames
+48	u	0	de Araujo	de_araujo	dearaujo	685654	312	https://forebears.io/brazil/surnames
+49	u	0	Borges	borges	borges	629476	340	https://forebears.io/brazil/surnames
+50	u	0	Bezerra	bezerra	bezerra	610735	351	https://forebears.io/brazil/surnames
+51	u	0	Henrique	henrique	henrique	608350	352	https://forebears.io/brazil/surnames
+52	u	0	Pinheiro	pinheiro	pinheiro	549257	390	https://forebears.io/brazil/surnames
+53	u	0	de Carvalho	de_carvalho	decarvalho	543544	394	https://forebears.io/brazil/surnames
+54	u	0	Monteiro	monteiro	monteiro	541957	395	https://forebears.io/brazil/surnames
+55	u	0	Correa	correa	correa	513996	416	https://forebears.io/brazil/surnames
+56	u	0	Aparecido	aparecido	aparecido	507978	421	https://forebears.io/brazil/surnames
+57	u	0	Andrade	andrade	andrade	503830	425	https://forebears.io/brazil/surnames
+58	u	0	Pinto	pinto	pinto	497956	430	https://forebears.io/brazil/surnames
+59	u	0	da Cruz	da_cruz	dacruz	464687	461	https://forebears.io/brazil/surnames
+60	u	0	de Paula	de_paula	depaula	456440	469	https://forebears.io/brazil/surnames
+61	u	0	de Freitas	de_freitas	defreitas	451062	475	https://forebears.io/brazil/surnames
+62	u	0	Nogueira	nogueira	nogueira	428781	499	https://forebears.io/brazil/surnames
+63	u	0	Leite	leite	leite	423833	505	https://forebears.io/brazil/surnames
+64	u	0	Tavares	tavares	tavares	423326	506	https://forebears.io/brazil/surnames
+65	u	0	Miranda	miranda	miranda	415415	515	https://forebears.io/brazil/surnames
+66	u	0	Pires	pires	pires	403979	530	https://forebears.io/brazil/surnames
+67	u	0	Garcia	garcia	garcia	402190	532	https://forebears.io/brazil/surnames
+68	u	0	dos Reis	dos_reis	dosreis	400939	534	https://forebears.io/brazil/surnames
+69	u	0	Xavier	xavier	xavier	398565	537	https://forebears.io/brazil/surnames
+70	u	0	do Carmo	do_carmo	docarmo	397359	539	https://forebears.io/brazil/surnames
+71	u	0	Duarte	duarte	duarte	393746	544	https://forebears.io/brazil/surnames
+72	u	0	de Andrade	de_andrade	deandrade	392362	546	https://forebears.io/brazil/surnames
+73	u	0	Freitas	freitas	freitas	388605	551	https://forebears.io/brazil/surnames
+74	u	0	Correia	correia	correia	387984	552	https://forebears.io/brazil/surnames
+75	u	0	de Fatima	de_fatima	defatima	379332	564	https://forebears.io/brazil/surnames
+76	u	0	Barros	barros	barros	376207	569	https://forebears.io/brazil/surnames
+77	u	0	Coelho	coelho	coelho	373259	574	https://forebears.io/brazil/surnames
+78	u	0	Gonçalves	gonçalves	goncalves	365175	586	https://forebears.io/brazil/surnames
+79	u	0	de Melo	de_melo	demelo	364280	588	https://forebears.io/brazil/surnames
+80	u	0	Reis	reis	reis	363032	590	https://forebears.io/brazil/surnames
+81	u	0	Viana	viana	viana	359146	596	https://forebears.io/brazil/surnames
+82	u	0	Campos	campos	campos	353285	606	https://forebears.io/brazil/surnames
+83	u	0	Moraes	moraes	moraes	341425	627	https://forebears.io/brazil/surnames
+84	u	0	Felix	felix	felix	335460	638	https://forebears.io/brazil/surnames
+85	u	0	Brito	brito	brito	330188	648	https://forebears.io/brazil/surnames
+86	u	0	Cordeiro	cordeiro	cordeiro	323683	661	https://forebears.io/brazil/surnames
+87	u	0	Neves	neves	neves	317356	675	https://forebears.io/brazil/surnames
+88	u	0	Moura	moura	moura	315693	678	https://forebears.io/brazil/surnames
+89	u	0	Guimaraes	guimaraes	guimaraes	312941	684	https://forebears.io/brazil/surnames
+90	u	0	Farias	farias	farias	309849	691	https://forebears.io/brazil/surnames
+91	u	0	da Rocha	da_rocha	darocha	307922	695	https://forebears.io/brazil/surnames
+92	u	0	de Castro	de_castro	decastro	302272	708	https://forebears.io/brazil/surnames
+93	u	0	Carneiro	carneiro	carneiro	282163	759	https://forebears.io/brazil/surnames
+94	u	0	Silveira	silveira	silveira	281723	760	https://forebears.io/brazil/surnames
+95	u	0	Candido	candido	candido	280772	762	https://forebears.io/brazil/surnames
+96	u	0	Melo	melo	melo	280017	765	https://forebears.io/brazil/surnames
+97	u	0	Medeiros	medeiros	medeiros	275632	777	https://forebears.io/brazil/surnames
+98	u	0	de Assis	de_assis	deassis	275255	778	https://forebears.io/brazil/surnames
+99	u	0	Bispo	bispo	bispo	273260	783	https://forebears.io/brazil/surnames
+100	u	0	de Lourdes	de_lourdes	delourdes	263695	812	https://forebears.io/brazil/surnames
+101	u	0	Cruz	cruz	cruz	257252	832	https://forebears.io/brazil/surnames
+102	u	0	Dantas	dantas	dantas	255067	839	https://forebears.io/brazil/surnames
+103	u	0	Maciel	maciel	maciel	254685	841	https://forebears.io/brazil/surnames
+104	u	0	Morais	morais	morais	250547	854	https://forebears.io/brazil/surnames
+105	u	0	Braga	braga	braga	249734	857	https://forebears.io/brazil/surnames
+106	u	0	Cavalcante	cavalcante	cavalcante	249530	858	https://forebears.io/brazil/surnames
+107	u	0	Antunes	antunes	antunes	246306	869	https://forebears.io/brazil/surnames
+108	u	0	Siqueira	siqueira	siqueira	246256	869	https://forebears.io/brazil/surnames
+109	u	0	de Moura	de_moura	demoura	240657	890	https://forebears.io/brazil/surnames
+110	u	0	Domingos	domingos	domingos	233236	918	https://forebears.io/brazil/surnames
+111	u	0	Macedo	macedo	macedo	231352	925	https://forebears.io/brazil/surnames
+112	u	0	de Santana	de_santana	desantana	231183	926	https://forebears.io/brazil/surnames
+113	u	0	Fonseca	fonseca	fonseca	230440	929	https://forebears.io/brazil/surnames
+114	u	0	Caetano	caetano	caetano	223141	959	https://forebears.io/brazil/surnames
+115	u	0	Castro	castro	castro	222326	963	https://forebears.io/brazil/surnames
+116	u	0	Menezes	menezes	menezes	217325	985	https://forebears.io/brazil/surnames
+117	u	0	da Cunha	da_cunha	dacunha	214741	997	https://forebears.io/brazil/surnames
+118	u	0	de Moraes	de_moraes	demoraes	214170	1000	https://forebears.io/brazil/surnames
+119	u	0	dos Anjos	dos_anjos	dosanjos	213701	1002	https://forebears.io/brazil/surnames
+120	u	0	Inacio	inacio	inacio	213577	1002	https://forebears.io/brazil/surnames
+121	u	0	Matos	matos	matos	211519	1012	https://forebears.io/brazil/surnames
+122	u	0	Sales	sales	sales	210991	1015	https://forebears.io/brazil/surnames
+123	u	0	Cunha	cunha	cunha	206386	1037	https://forebears.io/brazil/surnames
+124	u	0	Chaves	chaves	chaves	201883	1060	https://forebears.io/brazil/surnames
+125	u	0	de Brito	de_brito	debrito	200809	1066	https://forebears.io/brazil/surnames
+126	u	0	Barreto	barreto	barreto	196408	1090	https://forebears.io/brazil/surnames
+127	u	0	Queiroz	queiroz	queiroz	196382	1090	https://forebears.io/brazil/surnames
+128	u	0	Magalhaes	magalhaes	magalhaes	196330	1090	https://forebears.io/brazil/surnames
+129	u	0	Azevedo	azevedo	azevedo	195243	1096	https://forebears.io/brazil/surnames
+130	u	0	Mota	mota	mota	194724	1099	https://forebears.io/brazil/surnames
+131	u	0	Evangelista	evangelista	evangelista	193368	1107	https://forebears.io/brazil/surnames
+132	u	0	Bento	bento	bento	192202	1114	https://forebears.io/brazil/surnames
+133	u	0	Maia	maia	maia	189655	1129	https://forebears.io/brazil/surnames
+134	u	0	Amorim	amorim	amorim	189626	1129	https://forebears.io/brazil/surnames
+135	u	0	Cabral	cabral	cabral	188922	1133	https://forebears.io/brazil/surnames
+136	u	0	Bueno	bueno	bueno	188768	1134	https://forebears.io/brazil/surnames
+137	u	0	Mariano	mariano	mariano	187465	1142	https://forebears.io/brazil/surnames
+138	u	0	Torres	torres	torres	185312	1155	https://forebears.io/brazil/surnames
+139	u	0	Franca	franca	franca	184281	1162	https://forebears.io/brazil/surnames
+140	u	0	Marinho	marinho	marinho	184020	1163	https://forebears.io/brazil/surnames
+141	u	0	Amaral	amaral	amaral	183373	1167	https://forebears.io/brazil/surnames
+142	u	0	Guedes	guedes	guedes	181533	1179	https://forebears.io/brazil/surnames
+143	u	0	Freire	freire	freire	178678	1198	https://forebears.io/brazil/surnames
+144	u	0	Leal	leal	leal	178469	1200	https://forebears.io/brazil/surnames
+145	u	0	da Rosa	da_rosa	darosa	176058	1216	https://forebears.io/brazil/surnames
+146	u	0	Matias	matias	matias	173901	1231	https://forebears.io/brazil/surnames
+147	u	0	Paulino	paulino	paulino	173060	1237	https://forebears.io/brazil/surnames
+148	u	0	Sampaio	sampaio	sampaio	170597	1255	https://forebears.io/brazil/surnames
+149	u	0	Das Gracas	das_gracas	dasgracas	164723	1300	https://forebears.io/brazil/surnames
+150	u	0	Mendonca	mendonca	mendonca	164247	1303	https://forebears.io/brazil/surnames
+151	u	0	Camargo	camargo	camargo	163943	1306	https://forebears.io/brazil/surnames
+152	u	0	Franco	franco	franco	161050	1329	https://forebears.io/brazil/surnames
+153	u	0	Pacheco	pacheco	pacheco	160341	1335	https://forebears.io/brazil/surnames
+155	u	0	Aguiar	aguiar	aguiar	156923	1364	https://forebears.io/brazil/surnames
+156	u	0	de Barros	de_barros	debarros	156623	1367	https://forebears.io/brazil/surnames
+157	u	0	de Morais	de_morais	demorais	156515	1368	https://forebears.io/brazil/surnames
+158	u	0	Diniz	diniz	diniz	155960	1373	https://forebears.io/brazil/surnames
+159	u	0	Santiago	santiago	santiago	154628	1384	https://forebears.io/brazil/surnames
+160	u	0	Figueiredo	figueiredo	figueiredo	152847	1401	https://forebears.io/brazil/surnames
+161	u	0	Lemos	lemos	lemos	151185	1416	https://forebears.io/brazil/surnames
+162	u	0	Muniz	muniz	muniz	150030	1427	https://forebears.io/brazil/surnames
+163	u	0	Dutra	dutra	dutra	148356	1443	https://forebears.io/brazil/surnames
+164	u	0	Bastos	bastos	bastos	147738	1449	https://forebears.io/brazil/surnames
+165	u	0	da Silveira	da_silveira	dasilveira	147001	1456	https://forebears.io/brazil/surnames
+166	u	0	Vasconcelos	vasconcelos	vasconcelos	143345	1493	https://forebears.io/brazil/surnames
+167	u	0	de Azevedo	de_azevedo	deazevedo	140958	1519	https://forebears.io/brazil/surnames
+168	u	0	da Luz	da_luz	daluz	139608	1533	https://forebears.io/brazil/surnames
+169	u	0	Faria	faria	faria	139124	1539	https://forebears.io/brazil/surnames
+170	u	0	Trindade	trindade	trindade	138138	1550	https://forebears.io/brazil/surnames
+171	u	0	Gonzaga	gonzaga	gonzaga	137018	1562	https://forebears.io/brazil/surnames
+172	u	0	Domingues	domingues	domingues	135967	1574	https://forebears.io/brazil/surnames
+173	u	0	Paiva	paiva	paiva	133468	1604	https://forebears.io/brazil/surnames
+174	u	0	Feitosa	feitosa	feitosa	131941	1623	https://forebears.io/brazil/surnames
+175	u	0	de Abreu	de_abreu	deabreu	131781	1624	https://forebears.io/brazil/surnames
+176	u	0	Teles	teles	teles	128588	1665	https://forebears.io/brazil/surnames
+177	u	0	de Matos	de_matos	dematos	126128	1697	https://forebears.io/brazil/surnames
+178	u	0	Braz	braz	braz	125793	1702	https://forebears.io/brazil/surnames
+179	u	0	Coutinho	coutinho	coutinho	124628	1718	https://forebears.io/brazil/surnames
+180	u	0	Nonato	nonato	nonato	124314	1722	https://forebears.io/brazil/surnames
+181	u	0	Messias	messias	messias	123556	1733	https://forebears.io/brazil/surnames
+182	u	0	Chagas	chagas	chagas	123386	1735	https://forebears.io/brazil/surnames
+183	u	0	Simoes	simoes	simoes	121917	1756	https://forebears.io/brazil/surnames
+184	u	0	Fagundes	fagundes	fagundes	121460	1763	https://forebears.io/brazil/surnames
+185	u	0	Brandao	brandao	brandao	121178	1767	https://forebears.io/brazil/surnames
+186	u	0	Das Dores	das_dores	dasdores	120154	1782	https://forebears.io/brazil/surnames
+187	u	0	Teodoro	teodoro	teodoro	119826	1787	https://forebears.io/brazil/surnames
+188	u	0	Firmino	firmino	firmino	119644	1789	https://forebears.io/brazil/surnames
+189	u	0	Vaz	vaz	vaz	118617	1805	https://forebears.io/brazil/surnames
+190	u	0	de Campos	de_campos	decampos	117711	1819	https://forebears.io/brazil/surnames
+191	u	0	Barboza	barboza	barboza	116810	1833	https://forebears.io/brazil/surnames
+192	u	0	Das Chagas	das_chagas	daschagas	116677	1835	https://forebears.io/brazil/surnames
+193	u	0	Galdino	galdino	galdino	116157	1843	https://forebears.io/brazil/surnames
+194	u	0	Custodio	custodio	custodio	112865	1897	https://forebears.io/brazil/surnames
+195	u	0	Abreu	abreu	abreu	112380	1905	https://forebears.io/brazil/surnames
+196	u	0	Das Neves	das_neves	dasneves	111768	1915	https://forebears.io/brazil/surnames
+197	u	0	Peixoto	peixoto	peixoto	110352	1940	https://forebears.io/brazil/surnames
+198	u	0	Ferraz	ferraz	ferraz	109412	1957	https://forebears.io/brazil/surnames
+199	u	0	Rezende	rezende	rezende	106521	2010	https://forebears.io/brazil/surnames
+200	u	0	Furtado	furtado	furtado	106239	2015	https://forebears.io/brazil/surnames
+201	u	0	Neto	neto	neto	105432	2030	https://forebears.io/brazil/surnames
+202	u	0	de Franca	de_franca	defranca	104120	2056	https://forebears.io/brazil/surnames
+203	u	0	Sena	sena	sena	103500	2068	https://forebears.io/brazil/surnames
+204	u	0	de Medeiros	de_medeiros	demedeiros	101961	2100	https://forebears.io/brazil/surnames
+205	u	0	Lacerda	lacerda	lacerda	101638	2106	https://forebears.io/brazil/surnames
+206	u	0	Pimentel	pimentel	pimentel	100761	2125	https://forebears.io/brazil/surnames
+207	u	0	Assis	assis	assis	100349	2133	https://forebears.io/brazil/surnames
+208	u	0	Damasceno	damasceno	damasceno	99911	2143	https://forebears.io/brazil/surnames
+209	u	0	da Fonseca	da_fonseca	dafonseca	99513	2151	https://forebears.io/brazil/surnames
+211	u	0	Mesquita	mesquita	mesquita	99300	2156	https://forebears.io/brazil/surnames
+212	u	0	Albuquerque	albuquerque	albuquerque	98223	2179	https://forebears.io/brazil/surnames
+213	u	0	Pessoa	pessoa	pessoa	97641	2192	https://forebears.io/brazil/surnames
+214	u	0	Arruda	arruda	arruda	95697	2237	https://forebears.io/brazil/surnames
+215	u	0	do Amaral	do_amaral	doamaral	95169	2249	https://forebears.io/brazil/surnames
+216	u	0	Amaro	amaro	amaro	95056	2252	https://forebears.io/brazil/surnames
+217	u	0	Pontes	pontes	pontes	94765	2259	https://forebears.io/brazil/surnames
+218	u	0	Afonso	afonso	afonso	94323	2270	https://forebears.io/brazil/surnames
+219	u	0	Sabino	sabino	sabino	93760	2283	https://forebears.io/brazil/surnames
+220	u	0	de Sa	de_sa	desa	93727	2284	https://forebears.io/brazil/surnames
+221	u	0	Saraiva	saraiva	saraiva	92853	2306	https://forebears.io/brazil/surnames
+222	u	0	Candida	candida	candida	92412	2317	https://forebears.io/brazil/surnames
+223	u	0	Camilo	camilo	camilo	92215	2321	https://forebears.io/brazil/surnames
+224	u	0	Peres	peres	peres	91324	2344	https://forebears.io/brazil/surnames
+225	u	0	Pedroso	pedroso	pedroso	90582	2363	https://forebears.io/brazil/surnames
+226	u	0	Cerqueira	cerqueira	cerqueira	90552	2364	https://forebears.io/brazil/surnames
+227	u	0	Lira	lira	lira	89911	2381	https://forebears.io/brazil/surnames
+228	u	0	Galvao	galvao	galvao	89888	2382	https://forebears.io/brazil/surnames
+229	u	0	de Aguiar	de_aguiar	deaguiar	89045	2404	https://forebears.io/brazil/surnames
+230	u	0	do Socorro	do_socorro	dosocorro	88729	2413	https://forebears.io/brazil/surnames
+231	u	0	Venancio	venancio	venancio	88460	2420	https://forebears.io/brazil/surnames
+232	u	0	Faustino	faustino	faustino	88158	2428	https://forebears.io/brazil/surnames
+233	u	0	Lisboa	lisboa	lisboa	87788	2439	https://forebears.io/brazil/surnames
+234	u	0	Vargas	vargas	vargas	87139	2457	https://forebears.io/brazil/surnames
+235	u	0	Passos	passos	passos	86613	2472	https://forebears.io/brazil/surnames
+236	u	0	Lemes	lemes	lemes	86520	2474	https://forebears.io/brazil/surnames
+237	u	0	Gama	gama	gama	85878	2493	https://forebears.io/brazil/surnames
+238	u	0	Roque	roque	roque	85867	2493	https://forebears.io/brazil/surnames
+239	u	0	de Faria	de_faria	defaria	85777	2496	https://forebears.io/brazil/surnames
+240	u	0	Cezar	cezar	cezar	84462	2535	https://forebears.io/brazil/surnames
+241	u	0	de Queiroz	de_queiroz	dequeiroz	84341	2538	https://forebears.io/brazil/surnames
+242	u	0	de Mello	de_mello	demello	84209	2542	https://forebears.io/brazil/surnames
+243	u	0	Prado	prado	prado	84207	2542	https://forebears.io/brazil/surnames
+244	u	0	Bernardes	bernardes	bernardes	84145	2544	https://forebears.io/brazil/surnames
+245	u	0	Tomaz	tomaz	tomaz	83985	2549	https://forebears.io/brazil/surnames
+246	u	0	de Paiva	de_paiva	depaiva	83058	2577	https://forebears.io/brazil/surnames
+247	u	0	Justino	justino	justino	81174	2637	https://forebears.io/brazil/surnames
+248	u	0	Barroso	barroso	barroso	80648	2654	https://forebears.io/brazil/surnames
+249	u	0	Porto	porto	porto	80423	2662	https://forebears.io/brazil/surnames
+250	u	0	Pereira da Silva	pereira_da_silva	pereiradasilva	80395	2663	https://forebears.io/brazil/surnames
+251	u	0	Padilha	padilha	padilha	80097	2673	https://forebears.io/brazil/surnames
+252	u	0	Sanches	sanches	sanches	78735	2719	https://forebears.io/brazil/surnames
+253	u	0	do Espirito Santo	do_espirito_santo	doespiritosanto	78523	2726	https://forebears.io/brazil/surnames
+254	u	0	de Farias	de_farias	defarias	77920	2747	https://forebears.io/brazil/surnames
+255	u	0	Serafim	serafim	serafim	77290	2770	https://forebears.io/brazil/surnames
+256	u	0	Cavalcanti	cavalcanti	cavalcanti	77191	2773	https://forebears.io/brazil/surnames
+257	u	0	do Rosario	do_rosario	dorosario	76781	2788	https://forebears.io/brazil/surnames
+258	u	0	Rufino	rufino	rufino	76640	2793	https://forebears.io/brazil/surnames
+259	u	0	Vidal	vidal	vidal	75363	2841	https://forebears.io/brazil/surnames
+260	u	0	de Miranda	de_miranda	demiranda	75297	2843	https://forebears.io/brazil/surnames
+261	u	0	Baptista	baptista	baptista	74361	2879	https://forebears.io/brazil/surnames
+262	u	0	Bandeira	bandeira	bandeira	73816	2900	https://forebears.io/brazil/surnames
+263	u	0	Paes	paes	paes	73562	2910	https://forebears.io/brazil/surnames
+264	u	0	Flores	flores	flores	73444	2915	https://forebears.io/brazil/surnames
+265	u	0	Silvestre	silvestre	silvestre	72533	2951	https://forebears.io/brazil/surnames
+266	u	0	de Amorim	de_amorim	deamorim	71658	2987	https://forebears.io/brazil/surnames
+267	u	0	de Cassia	de_cassia	decassia	71558	2992	https://forebears.io/brazil/surnames
+268	u	0	Rabelo	rabelo	rabelo	70875	3020	https://forebears.io/brazil/surnames
+269	u	0	de Macedo	de_macedo	demacedo	70783	3024	https://forebears.io/brazil/surnames
+270	u	0	Alencar	alencar	alencar	70503	3036	https://forebears.io/brazil/surnames
+271	u	0	Henrique da Silva	henrique_da_silva	henriquedasilva	70433	3039	https://forebears.io/brazil/surnames
+272	u	0	Rangel	rangel	rangel	69796	3067	https://forebears.io/brazil/surnames
+273	u	0	Florencio	florencio	florencio	69406	3084	https://forebears.io/brazil/surnames
+274	u	0	Ventura	ventura	ventura	69271	3090	https://forebears.io/brazil/surnames
+275	u	0	do Prado	do_prado	doprado	69011	3102	https://forebears.io/brazil/surnames
+276	u	0	Mateus	mateus	mateus	68849	3109	https://forebears.io/brazil/surnames
+277	u	0	Simao	simao	simao	68665	3118	https://forebears.io/brazil/surnames
+278	u	0	Lins	lins	lins	68539	3123	https://forebears.io/brazil/surnames
+279	u	0	Francisco	francisco	francisco	67875	3154	https://forebears.io/brazil/surnames
+280	u	0	Paixao	paixao	paixao	67785	3158	https://forebears.io/brazil/surnames
+281	u	0	Neres	neres	neres	67065	3192	https://forebears.io/brazil/surnames
+282	u	0	Ramalho	ramalho	ramalho	67037	3193	https://forebears.io/brazil/surnames
+283	u	0	de Menezes	de_menezes	demenezes	66971	3197	https://forebears.io/brazil/surnames
+284	u	0	de Camargo	de_camargo	decamargo	65794	3254	https://forebears.io/brazil/surnames
+285	u	0	Veloso	veloso	veloso	65675	3260	https://forebears.io/brazil/surnames
+286	u	0	Couto	couto	couto	65532	3267	https://forebears.io/brazil/surnames
+287	u	0	de Arruda	de_arruda	dearruda	65314	3278	https://forebears.io/brazil/surnames
+288	u	0	Celestino	celestino	celestino	65311	3278	https://forebears.io/brazil/surnames
+289	u	0	de Albuquerque	de_albuquerque	dealbuquerque	64733	3307	https://forebears.io/brazil/surnames
+290	u	0	Alcantara	alcantara	alcantara	64691	3309	https://forebears.io/brazil/surnames
+291	u	0	Silverio	silverio	silverio	64240	3332	https://forebears.io/brazil/surnames
+292	u	0	Muller	muller	muller	63971	3346	https://forebears.io/brazil/surnames
+293	u	0	Feliciano	feliciano	feliciano	63600	3366	https://forebears.io/brazil/surnames
+294	u	0	Honorio	honorio	honorio	62909	3403	https://forebears.io/brazil/surnames
+295	u	0	Assuncao	assuncao	assuncao	62849	3406	https://forebears.io/brazil/surnames
+296	u	0	de Aquino	de_aquino	deaquino	62769	3411	https://forebears.io/brazil/surnames
+297	u	0	Resende	resende	resende	62099	3447	https://forebears.io/brazil/surnames
+298	u	0	Pimenta	pimenta	pimenta	61894	3459	https://forebears.io/brazil/surnames
+299	u	0	Amancio	amancio	amancio	61634	3473	https://forebears.io/brazil/surnames
+300	u	0	Moreno	moreno	moreno	61546	3478	https://forebears.io/brazil/surnames
+301	u	0	Mello	mello	mello	61515	3480	https://forebears.io/brazil/surnames
+302	u	0	Tenorio	tenorio	tenorio	60677	3528	https://forebears.io/brazil/surnames
+303	u	0	Clemente	clemente	clemente	60321	3549	https://forebears.io/brazil/surnames
+304	u	0	Goulart	goulart	goulart	60274	3552	https://forebears.io/brazil/surnames
+305	u	0	da Paixao	da_paixao	dapaixao	59328	3608	https://forebears.io/brazil/surnames
+306	u	0	Leao	leao	leao	59243	3613	https://forebears.io/brazil/surnames
+307	u	0	Aquino	aquino	aquino	59169	3618	https://forebears.io/brazil/surnames
+308	u	0	de Sena	de_sena	desena	58893	3635	https://forebears.io/brazil/surnames
+309	u	0	Vilela	vilela	vilela	58740	3644	https://forebears.io/brazil/surnames
+310	u	0	de Siqueira	de_siqueira	desiqueira	58663	3649	https://forebears.io/brazil/surnames
+311	u	0	Honorato	honorato	honorato	58487	3660	https://forebears.io/brazil/surnames
+312	u	0	Balbino	balbino	balbino	57709	3710	https://forebears.io/brazil/surnames
+313	u	0	Esteves	esteves	esteves	57551	3720	https://forebears.io/brazil/surnames
+314	u	0	Paz	paz	paz	57337	3734	https://forebears.io/brazil/surnames
+315	u	0	Januario	januario	januario	57301	3736	https://forebears.io/brazil/surnames
+316	u	0	de Deus	de_deus	dedeus	57251	3739	https://forebears.io/brazil/surnames
+317	u	0	Ferreira da Silva	ferreira_da_silva	ferreiradasilva	57186	3743	https://forebears.io/brazil/surnames
+318	u	0	Alves da Silva	alves_da_silva	alvesdasilva	56684	3777	https://forebears.io/brazil/surnames
+319	u	0	Quirino	quirino	quirino	56596	3782	https://forebears.io/brazil/surnames
+320	u	0	Botelho	botelho	botelho	56579	3784	https://forebears.io/brazil/surnames
+321	u	0	da Penha	da_penha	dapenha	56129	3814	https://forebears.io/brazil/surnames
+322	u	0	Sobrinho	sobrinho	sobrinho	55221	3877	https://forebears.io/brazil/surnames
+323	u	0	Lourenço	lourenço	lourenco	54522	3926	https://forebears.io/brazil/surnames
+324	u	0	Gregorio	gregorio	gregorio	54459	3931	https://forebears.io/brazil/surnames
+325	u	0	Valentim	valentim	valentim	54388	3936	https://forebears.io/brazil/surnames
+326	u	0	dos Passos	dos_passos	dospassos	54313	3941	https://forebears.io/brazil/surnames
+327	u	0	Pantoja	pantoja	pantoja	54097	3957	https://forebears.io/brazil/surnames
+329	u	0	Fontes	fontes	fontes	53256	4020	https://forebears.io/brazil/surnames
+330	u	0	Meireles	meireles	meireles	53189	4025	https://forebears.io/brazil/surnames
+331	u	0	Nobre	nobre	nobre	52943	4043	https://forebears.io/brazil/surnames
+332	u	0	Brasil	brasil	brasil	52867	4049	https://forebears.io/brazil/surnames
+333	u	0	Vitorino	vitorino	vitorino	52766	4057	https://forebears.io/brazil/surnames
+334	u	0	da Paz	da_paz	dapaz	52212	4100	https://forebears.io/brazil/surnames
+335	u	0	Guerra	guerra	guerra	51419	4163	https://forebears.io/brazil/surnames
+336	u	0	Calixto	calixto	calixto	51252	4177	https://forebears.io/brazil/surnames
+337	u	0	Cardozo	cardozo	cardozo	51104	4189	https://forebears.io/brazil/surnames
+338	u	0	de Sales	de_sales	desales	50407	4247	https://forebears.io/brazil/surnames
+339	u	0	Aires	aires	aires	49530	4322	https://forebears.io/brazil/surnames
+340	u	0	Novais	novais	novais	49420	4332	https://forebears.io/brazil/surnames
+341	u	0	Modesto	modesto	modesto	49349	4338	https://forebears.io/brazil/surnames
+342	u	0	Claudino	claudino	claudino	49036	4366	https://forebears.io/brazil/surnames
+343	u	0	Rossi	rossi	rossi	48986	4370	https://forebears.io/brazil/surnames
+344	u	0	Bonfim	bonfim	bonfim	48969	4372	https://forebears.io/brazil/surnames
+345	u	0	Cassiano	cassiano	cassiano	48864	4381	https://forebears.io/brazil/surnames
+346	u	0	Severo	severo	severo	48813	4386	https://forebears.io/brazil/surnames
+347	u	0	Vicente	vicente	vicente	48527	4411	https://forebears.io/brazil/surnames
+348	u	0	Valerio	valerio	valerio	48158	4445	https://forebears.io/brazil/surnames
+349	u	0	Gouveia	gouveia	gouveia	47903	4469	https://forebears.io/brazil/surnames
+350	u	0	Romao	romao	romao	47686	4489	https://forebears.io/brazil/surnames
+351	u	0	Motta	motta	motta	47319	4524	https://forebears.io/brazil/surnames
+352	u	0	Caldeira	caldeira	caldeira	47015	4553	https://forebears.io/brazil/surnames
+353	u	0	Barcelos	barcelos	barcelos	46999	4555	https://forebears.io/brazil/surnames
+354	u	0	Ferrari	ferrari	ferrari	46964	4558	https://forebears.io/brazil/surnames
+355	u	0	de Vasconcelos	de_vasconcelos	devasconcelos	46912	4563	https://forebears.io/brazil/surnames
+356	u	0	Fraga	fraga	fraga	46673	4587	https://forebears.io/brazil/surnames
+357	u	0	Veiga	veiga	veiga	46619	4592	https://forebears.io/brazil/surnames
+358	u	0	Dourado	dourado	dourado	46449	4609	https://forebears.io/brazil/surnames
+359	u	0	Novaes	novaes	novaes	46152	4638	https://forebears.io/brazil/surnames
+360	u	0	Patricio	patricio	patricio	46115	4642	https://forebears.io/brazil/surnames
+361	u	0	Nery	nery	nery	46051	4649	https://forebears.io/brazil/surnames
+362	u	0	Meira	meira	meira	45980	4656	https://forebears.io/brazil/surnames
+363	u	0	Jardim	jardim	jardim	45610	4694	https://forebears.io/brazil/surnames
+364	u	0	Mattos	mattos	mattos	45464	4709	https://forebears.io/brazil/surnames
+365	u	0	Basilio	basilio	basilio	45325	4723	https://forebears.io/brazil/surnames
+366	u	0	Linhares	linhares	linhares	45319	4724	https://forebears.io/brazil/surnames
+367	u	0	Gomes da Silva	gomes_da_silva	gomesdasilva	45193	4737	https://forebears.io/brazil/surnames
+368	u	0	Toledo	toledo	toledo	44954	4762	https://forebears.io/brazil/surnames
+369	u	0	Borba	borba	borba	44733	4786	https://forebears.io/brazil/surnames
+370	u	0	Rodrigues da Silva	rodrigues_da_silva	rodriguesdasilva	44715	4788	https://forebears.io/brazil/surnames
+371	u	0	Bomfim	bomfim	bomfim	44653	4794	https://forebears.io/brazil/surnames
+372	u	0	Schneider	schneider	schneider	44621	4798	https://forebears.io/brazil/surnames
+373	u	0	Caldas	caldas	caldas	44372	4825	https://forebears.io/brazil/surnames
+374	u	0	Delfino	delfino	delfino	43064	4971	https://forebears.io/brazil/surnames
+375	u	0	Rios	rios	rios	43029	4975	https://forebears.io/brazil/surnames
+376	u	0	Vital	vital	vital	42835	4998	https://forebears.io/brazil/surnames
+377	u	0	Gaspar	gaspar	gaspar	42589	5027	https://forebears.io/brazil/surnames
+378	u	0	Laurindo	laurindo	laurindo	42516	5035	https://forebears.io/brazil/surnames
+379	u	0	de Alencar	de_alencar	dealencar	42261	5066	https://forebears.io/brazil/surnames
+380	u	0	Henrique Silva	henrique_silva	henriquesilva	42196	5073	https://forebears.io/brazil/surnames
+381	u	0	da Mota	da_mota	damota	42165	5077	https://forebears.io/brazil/surnames
+382	u	0	de Mattos	de_mattos	demattos	41732	5130	https://forebears.io/brazil/surnames
+383	u	0	Bittencourt	bittencourt	bittencourt	41547	5153	https://forebears.io/brazil/surnames
+384	u	0	Serra	serra	serra	41413	5169	https://forebears.io/brazil/surnames
+385	u	0	da Gloria	da_gloria	dagloria	41204	5195	https://forebears.io/brazil/surnames
+386	u	0	Souto	souto	souto	41179	5199	https://forebears.io/brazil/surnames
+387	u	0	Goes	goes	goes	40973	5225	https://forebears.io/brazil/surnames
+388	u	0	de Paulo	de_paulo	depaulo	40971	5225	https://forebears.io/brazil/surnames
+389	u	0	Arcanjo	arcanjo	arcanjo	40853	5240	https://forebears.io/brazil/surnames
+390	u	0	de Lira	de_lira	delira	40788	5248	https://forebears.io/brazil/surnames
+391	u	0	Marcondes	marcondes	marcondes	40760	5252	https://forebears.io/brazil/surnames
+392	u	0	Fidelis	fidelis	fidelis	40652	5266	https://forebears.io/brazil/surnames
+393	u	0	Lobato	lobato	lobato	40501	5286	https://forebears.io/brazil/surnames
+394	u	0	Aragao	aragao	aragao	40439	5294	https://forebears.io/brazil/surnames
+395	u	0	Avila	avila	avila	40412	5297	https://forebears.io/brazil/surnames
+396	u	0	Henrique dos Santos	henrique_dos_santos	henriquedossantos	40050	5345	https://forebears.io/brazil/surnames
+397	u	0	de Figueiredo	de_figueiredo	defigueiredo	39834	5374	https://forebears.io/brazil/surnames
+398	u	0	Ribas	ribas	ribas	39567	5410	https://forebears.io/brazil/surnames
+399	u	0	Arantes	arantes	arantes	39509	5418	https://forebears.io/brazil/surnames
+400	u	0	Belo	belo	belo	39476	5423	https://forebears.io/brazil/surnames
+401	u	0	Carmo	carmo	carmo	39466	5424	https://forebears.io/brazil/surnames
+402	u	0	Florentino	florentino	florentino	39422	5430	https://forebears.io/brazil/surnames
+403	u	0	Portela	portela	portela	39198	5461	https://forebears.io/brazil/surnames
+404	u	0	Holanda	holanda	holanda	39054	5481	https://forebears.io/brazil/surnames
+405	u	0	Estevam	estevam	estevam	39015	5487	https://forebears.io/brazil/surnames
+406	u	0	de Alcantara	de_alcantara	dealcantara	38926	5500	https://forebears.io/brazil/surnames
+407	u	0	Pereira dos Santos	pereira_dos_santos	pereiradossantos	38893	5504	https://forebears.io/brazil/surnames
+408	u	0	Pedrosa	pedrosa	pedrosa	38814	5515	https://forebears.io/brazil/surnames
+409	u	0	Prestes	prestes	prestes	38481	5563	https://forebears.io/brazil/surnames
+410	u	0	Alvarenga	alvarenga	alvarenga	38360	5581	https://forebears.io/brazil/surnames
+411	u	0	Fortunato	fortunato	fortunato	38310	5588	https://forebears.io/brazil/surnames
+412	u	0	Saldanha	saldanha	saldanha	38259	5595	https://forebears.io/brazil/surnames
+413	u	0	Camara	camara	camara	38247	5597	https://forebears.io/brazil/surnames
+414	u	0	Felicio	felicio	felicio	38180	5607	https://forebears.io/brazil/surnames
+415	u	0	Estevao	estevao	estevao	38155	5611	https://forebears.io/brazil/surnames
+416	u	0	Cipriano	cipriano	cipriano	37981	5636	https://forebears.io/brazil/surnames
+417	u	0	Lucena	lucena	lucena	37859	5655	https://forebears.io/brazil/surnames
+418	u	0	Neri	neri	neri	37852	5656	https://forebears.io/brazil/surnames
+419	u	0	Bonifacio	bonifacio	bonifacio	37600	5693	https://forebears.io/brazil/surnames
+420	u	0	Apolinario	apolinario	apolinario	37531	5704	https://forebears.io/brazil/surnames
+421	u	0	Schmidt	schmidt	schmidt	37513	5707	https://forebears.io/brazil/surnames
+422	u	0	Castilho	castilho	castilho	37424	5720	https://forebears.io/brazil/surnames
+423	u	0	Clementino	clementino	clementino	37301	5739	https://forebears.io/brazil/surnames
+425	u	0	Marcolino	marcolino	marcolino	37060	5776	https://forebears.io/brazil/surnames
+426	u	0	Porfirio	porfirio	porfirio	37051	5778	https://forebears.io/brazil/surnames
+427	u	0	Tome	tome	tome	36948	5794	https://forebears.io/brazil/surnames
+428	u	0	de Mendonca	de_mendonca	demendonca	36503	5865	https://forebears.io/brazil/surnames
+429	u	0	Verissimo	verissimo	verissimo	36314	5895	https://forebears.io/brazil/surnames
+430	u	0	Valente	valente	valente	36302	5897	https://forebears.io/brazil/surnames
+431	u	0	Pinho	pinho	pinho	36196	5914	https://forebears.io/brazil/surnames
+432	u	0	do Vale	do_vale	dovale	35977	5950	https://forebears.io/brazil/surnames
+433	u	0	Aleixo	aleixo	aleixo	35924	5959	https://forebears.io/brazil/surnames
+434	u	0	Nicolau	nicolau	nicolau	35771	5985	https://forebears.io/brazil/surnames
+435	u	0	Figueira	figueira	figueira	35492	6032	https://forebears.io/brazil/surnames
+436	u	0	Floriano	floriano	floriano	35255	6072	https://forebears.io/brazil/surnames
+437	u	0	Coimbra	coimbra	coimbra	35028	6112	https://forebears.io/brazil/surnames
+438	u	0	Veras	veras	veras	34977	6120	https://forebears.io/brazil/surnames
+439	u	0	Marcal	marcal	marcal	34825	6147	https://forebears.io/brazil/surnames
+440	u	0	Leme	leme	leme	34810	6150	https://forebears.io/brazil/surnames
+441	u	0	Loureiro	loureiro	loureiro	34689	6171	https://forebears.io/brazil/surnames
+442	u	0	Prates	prates	prates	34631	6182	https://forebears.io/brazil/surnames
+443	u	0	Meneses	meneses	meneses	34615	6184	https://forebears.io/brazil/surnames
+444	u	0	Becker	becker	becker	34548	6196	https://forebears.io/brazil/surnames
+445	u	0	Belarmino	belarmino	belarmino	34516	6202	https://forebears.io/brazil/surnames
+446	u	0	Luiz	luiz	luiz	34374	6228	https://forebears.io/brazil/surnames
+447	u	0	Constantino	constantino	constantino	34069	6284	https://forebears.io/brazil/surnames
+448	u	0	Bitencourt	bitencourt	bitencourt	33848	6325	https://forebears.io/brazil/surnames
+449	u	0	Trajano	trajano	trajano	33786	6336	https://forebears.io/brazil/surnames
+450	u	0	Alves dos Santos	alves_dos_santos	alvesdossantos	33640	6364	https://forebears.io/brazil/surnames
+451	u	0	Alexandre	alexandre	alexandre	33402	6409	https://forebears.io/brazil/surnames
+452	u	0	Maximo	maximo	maximo	33364	6416	https://forebears.io/brazil/surnames
+453	u	0	Martinez	martinez	martinez	32965	6494	https://forebears.io/brazil/surnames
+454	u	0	Simplicio	simplicio	simplicio	32753	6536	https://forebears.io/brazil/surnames
+455	u	0	Salles	salles	salles	32752	6536	https://forebears.io/brazil/surnames
+456	u	0	Figueredo	figueredo	figueredo	32750	6537	https://forebears.io/brazil/surnames
+457	u	0	Cavalheiro	cavalheiro	cavalheiro	32726	6541	https://forebears.io/brazil/surnames
+458	u	0	Bernardo	bernardo	bernardo	32707	6545	https://forebears.io/brazil/surnames
+459	u	0	Falcao	falcao	falcao	32702	6546	https://forebears.io/brazil/surnames
+460	u	0	Conceição	conceição	conceicao	32565	6574	https://forebears.io/brazil/surnames
+461	u	0	Beserra	beserra	beserra	32549	6577	https://forebears.io/brazil/surnames
+462	u	0	Augusto	augusto	augusto	32530	6581	https://forebears.io/brazil/surnames
+463	u	0	Godoy	godoy	godoy	32097	6670	https://forebears.io/brazil/surnames
+464	u	0	Henrique Pereira	henrique_pereira	henriquepereira	32067	6676	https://forebears.io/brazil/surnames
+465	u	0	Perez	perez	perez	31866	6718	https://forebears.io/brazil/surnames
+466	u	0	Sobral	sobral	sobral	31266	6847	https://forebears.io/brazil/surnames
+467	u	0	Crispim	crispim	crispim	30872	6934	https://forebears.io/brazil/surnames
+468	u	0	Ortiz	ortiz	ortiz	30816	6947	https://forebears.io/brazil/surnames
+469	u	0	Henrique Santos	henrique_santos	henriquesantos	30537	7010	https://forebears.io/brazil/surnames
+470	u	0	Carlos	carlos	carlos	30357	7052	https://forebears.io/brazil/surnames
+471	u	0	Henrique Ferreira	henrique_ferreira	henriqueferreira	30335	7057	https://forebears.io/brazil/surnames
+472	u	0	Campelo	campelo	campelo	30300	7065	https://forebears.io/brazil/surnames
+473	u	0	Henrique Alves	henrique_alves	henriquealves	30298	7066	https://forebears.io/brazil/surnames
+474	u	0	Adao	adao	adao	30279	7070	https://forebears.io/brazil/surnames
+475	u	0	Lessa	lessa	lessa	30148	7101	https://forebears.io/brazil/surnames
+476	u	0	Lara	lara	lara	30106	7111	https://forebears.io/brazil/surnames
+477	u	0	Sodre	sodre	sodre	29981	7140	https://forebears.io/brazil/surnames
+478	u	0	Anastacio	anastacio	anastacio	29946	7149	https://forebears.io/brazil/surnames
+479	u	0	Malaquias	malaquias	malaquias	29680	7213	https://forebears.io/brazil/surnames
+480	u	0	Magno	magno	magno	29597	7233	https://forebears.io/brazil/surnames
+481	u	0	Cassimiro	cassimiro	cassimiro	29590	7235	https://forebears.io/brazil/surnames
+482	u	0	Henriques	henriques	henriques	29503	7256	https://forebears.io/brazil/surnames
+483	u	0	Antonio	antonio	antonio	29494	7258	https://forebears.io/brazil/surnames
+484	u	0	Cesario	cesario	cesario	29179	7337	https://forebears.io/brazil/surnames
+485	u	0	Vianna	vianna	vianna	29129	7349	https://forebears.io/brazil/surnames
+486	u	0	Ambrosio	ambrosio	ambrosio	28811	7430	https://forebears.io/brazil/surnames
+487	u	0	Marcelino	marcelino	marcelino	28498	7512	https://forebears.io/brazil/surnames
+488	u	0	Ferreira dos Santos	ferreira_dos_santos	ferreiradossantos	28250	7578	https://forebears.io/brazil/surnames
+489	u	0	Pedro	pedro	pedro	28210	7589	https://forebears.io/brazil/surnames
+490	u	0	Thomaz	thomaz	thomaz	28022	7640	https://forebears.io/brazil/surnames
+491	u	0	Weber	weber	weber	27817	7696	https://forebears.io/brazil/surnames
+492	u	0	da Mata	da_mata	damata	27695	7730	https://forebears.io/brazil/surnames
+493	u	0	Penha	penha	penha	27664	7738	https://forebears.io/brazil/surnames
+494	u	0	Marins	marins	marins	27627	7749	https://forebears.io/brazil/surnames
+495	u	0	Mascarenhas	mascarenhas	mascarenhas	27625	7749	https://forebears.io/brazil/surnames
+496	u	0	Madeira	madeira	madeira	27595	7758	https://forebears.io/brazil/surnames
+497	u	0	Miguel	miguel	miguel	27574	7764	https://forebears.io/brazil/surnames
+498	u	0	Branco	branco	branco	27570	7765	https://forebears.io/brazil/surnames
+499	u	0	Sarmento	sarmento	sarmento	27389	7816	https://forebears.io/brazil/surnames
+500	u	0	Ignacio	ignacio	ignacio	27351	7827	https://forebears.io/brazil/surnames
+501	u	0	Gois	gois	gois	27220	7865	https://forebears.io/brazil/surnames
+502	u	0	Noronha	noronha	noronha	27179	7876	https://forebears.io/brazil/surnames
+503	u	0	Rego	rego	rego	27158	7883	https://forebears.io/brazil/surnames
+504	u	0	Henrique Rodrigues	henrique_rodrigues	henriquerodrigues	27003	7928	https://forebears.io/brazil/surnames
+505	u	0	Pena	pena	pena	26955	7942	https://forebears.io/brazil/surnames
+506	u	0	Mathias	mathias	mathias	26827	7980	https://forebears.io/brazil/surnames
+507	u	0	Donizetti	donizetti	donizetti	26776	7995	https://forebears.io/brazil/surnames
+508	u	0	Ruiz	ruiz	ruiz	26591	8051	https://forebears.io/brazil/surnames
+509	u	0	Brum	brum	brum	26578	8055	https://forebears.io/brazil/surnames
+510	u	0	Zacarias	zacarias	zacarias	26534	8068	https://forebears.io/brazil/surnames
+511	u	0	Henrique de Oliveira	henrique_de_oliveira	henriquedeoliveira	26471	8087	https://forebears.io/brazil/surnames
+512	u	0	Telles	telles	telles	26403	8108	https://forebears.io/brazil/surnames
+513	u	0	Quintino	quintino	quintino	26401	8109	https://forebears.io/brazil/surnames
+514	u	0	Gil	gil	gil	26382	8114	https://forebears.io/brazil/surnames
+515	u	0	de Fatima da Silva	de_fatima_da_silva	defatimadasilva	26370	8118	https://forebears.io/brazil/surnames
+516	u	0	Salgado	salgado	salgado	26196	8172	https://forebears.io/brazil/surnames
+517	u	0	Anacleto	anacleto	anacleto	26056	8216	https://forebears.io/brazil/surnames
+518	u	0	Francelino	francelino	francelino	26044	8220	https://forebears.io/brazil/surnames
+519	u	0	de Avila	de_avila	deavila	25923	8258	https://forebears.io/brazil/surnames
+520	u	0	Alves de Oliveira	alves_de_oliveira	alvesdeoliveira	25552	8378	https://forebears.io/brazil/surnames
+521	u	0	Felipe	felipe	felipe	25550	8379	https://forebears.io/brazil/surnames
+522	u	0	Medina	medina	medina	25319	8455	https://forebears.io/brazil/surnames
+523	u	0	Espindola	espindola	espindola	25287	8466	https://forebears.io/brazil/surnames
+524	u	0	Vale	vale	vale	25018	8557	https://forebears.io/brazil/surnames
+525	u	0	Klein	klein	klein	25013	8559	https://forebears.io/brazil/surnames
+526	u	0	da Hora	da_hora	dahora	24969	8574	https://forebears.io/brazil/surnames
+527	u	0	de Rezende	de_rezende	derezende	24949	8580	https://forebears.io/brazil/surnames
+528	u	0	Elias	elias	elias	24921	8590	https://forebears.io/brazil/surnames
+529	u	0	Nobrega	nobrega	nobrega	24881	8604	https://forebears.io/brazil/surnames
+530	u	0	de Assuncao	de_assuncao	deassuncao	24610	8699	https://forebears.io/brazil/surnames
+531	u	0	Fortes	fortes	fortes	24547	8721	https://forebears.io/brazil/surnames
+532	u	0	Quaresma	quaresma	quaresma	24518	8731	https://forebears.io/brazil/surnames
+533	u	0	Viegas	viegas	viegas	24419	8767	https://forebears.io/brazil/surnames
+534	u	0	Munhoz	munhoz	munhoz	24365	8786	https://forebears.io/brazil/surnames
+535	u	0	Frazao	frazao	frazao	24270	8821	https://forebears.io/brazil/surnames
+536	u	0	Theodoro	theodoro	theodoro	24216	8840	https://forebears.io/brazil/surnames
+537	u	0	Henrique de Souza	henrique_de_souza	henriquedesouza	24081	8890	https://forebears.io/brazil/surnames
+538	u	0	Rodrigues dos Santos	rodrigues_dos_santos	rodriguesdossantos	24037	8906	https://forebears.io/brazil/surnames
+539	u	0	Godinho	godinho	godinho	23951	8938	https://forebears.io/brazil/surnames
+540	u	0	Neris	neris	neris	23935	8944	https://forebears.io/brazil/surnames
+541	u	0	Romero	romero	romero	23886	8962	https://forebears.io/brazil/surnames
+542	u	0	Fogaca	fogaca	fogaca	23830	8983	https://forebears.io/brazil/surnames
+543	u	0	Flor	flor	flor	23788	8999	https://forebears.io/brazil/surnames
+544	u	0	de Magalhaes	de_magalhaes	demagalhaes	23729	9022	https://forebears.io/brazil/surnames
+545	u	0	Hoffmann	hoffmann	hoffmann	23698	9033	https://forebears.io/brazil/surnames
+546	u	0	Cezario	cezario	cezario	23555	9088	https://forebears.io/brazil/surnames
+547	u	0	Procopio	procopio	procopio	23496	9111	https://forebears.io/brazil/surnames
+548	u	0	Varela	varela	varela	23393	9151	https://forebears.io/brazil/surnames
+549	u	0	Delgado	delgado	delgado	23374	9159	https://forebears.io/brazil/surnames
+550	u	0	Sacramento	sacramento	sacramento	23185	9233	https://forebears.io/brazil/surnames
+551	u	0	de Lara	de_lara	delara	23115	9261	https://forebears.io/brazil/surnames
+552	u	0	Jorge	jorge	jorge	23098	9268	https://forebears.io/brazil/surnames
+553	u	0	Timoteo	timoteo	timoteo	23094	9270	https://forebears.io/brazil/surnames
+554	u	0	Fialho	fialho	fialho	22975	9318	https://forebears.io/brazil/surnames
+555	u	0	Gusmao	gusmao	gusmao	22907	9345	https://forebears.io/brazil/surnames
+556	u	0	de Mesquita	de_mesquita	demesquita	22883	9355	https://forebears.io/brazil/surnames
+558	u	0	Henrique Oliveira	henrique_oliveira	henriqueoliveira	22701	9430	https://forebears.io/brazil/surnames
+559	u	0	Lucas	lucas	lucas	22679	9439	https://forebears.io/brazil/surnames
+560	u	0	do Couto	do_couto	docouto	22523	9505	https://forebears.io/brazil/surnames
+561	u	0	Leitao	leitao	leitao	22512	9509	https://forebears.io/brazil/surnames
+562	u	0	Maximiano	maximiano	maximiano	22474	9525	https://forebears.io/brazil/surnames
+563	u	0	Bosco	bosco	bosco	22357	9575	https://forebears.io/brazil/surnames
+564	u	0	Feitoza	feitoza	feitoza	22304	9598	https://forebears.io/brazil/surnames
+565	u	0	Canuto	canuto	canuto	22242	9625	https://forebears.io/brazil/surnames
+566	u	0	Ribeiro da Silva	ribeiro_da_silva	ribeirodasilva	22110	9682	https://forebears.io/brazil/surnames
+567	u	0	Inocencio	inocencio	inocencio	22081	9695	https://forebears.io/brazil/surnames
+568	u	0	Zeferino	zeferino	zeferino	22041	9713	https://forebears.io/brazil/surnames
+569	u	0	Jose	jose	jose	22003	9729	https://forebears.io/brazil/surnames
+570	u	0	Gabriel	gabriel	gabriel	21928	9763	https://forebears.io/brazil/surnames
+571	u	0	Junqueira	junqueira	junqueira	21914	9769	https://forebears.io/brazil/surnames
+572	u	0	Maria	maria	maria	21911	9770	https://forebears.io/brazil/surnames
+573	u	0	Rolim	rolim	rolim	21811	9815	https://forebears.io/brazil/surnames
+574	u	0	Targino	targino	targino	21775	9831	https://forebears.io/brazil/surnames
+575	u	0	Alexandrino	alexandrino	alexandrino	21736	9849	https://forebears.io/brazil/surnames
+576	u	0	Liberato	liberato	liberato	21706	9862	https://forebears.io/brazil/surnames
+577	u	0	Graciano	graciano	graciano	21690	9870	https://forebears.io/brazil/surnames
+578	u	0	Romano	romano	romano	21565	9927	https://forebears.io/brazil/surnames
+579	u	0	Guerreiro	guerreiro	guerreiro	21561	9929	https://forebears.io/brazil/surnames
+580	u	0	dos Prazeres	dos_prazeres	dosprazeres	21544	9937	https://forebears.io/brazil/surnames
+581	u	0	Palmeira	palmeira	palmeira	21464	9974	https://forebears.io/brazil/surnames
+582	u	0	Gonzalez	gonzalez	gonzalez	21181	10107	https://forebears.io/brazil/surnames
+583	u	0	Camelo	camelo	camelo	21158	10118	https://forebears.io/brazil/surnames
+584	u	0	Alves de Souza	alves_de_souza	alvesdesouza	21140	10127	https://forebears.io/brazil/surnames
+585	u	0	Cirino	cirino	cirino	21106	10143	https://forebears.io/brazil/surnames
+586	u	0	de Toledo	de_toledo	detoledo	21093	10149	https://forebears.io/brazil/surnames
+587	u	0	Cintra	cintra	cintra	20960	10213	https://forebears.io/brazil/surnames
+588	u	0	Junior	junior	junior	20897	10244	https://forebears.io/brazil/surnames
+589	u	0	Euzebio	euzebio	euzebio	20867	10259	https://forebears.io/brazil/surnames
+590	u	0	Torquato	torquato	torquato	20814	10285	https://forebears.io/brazil/surnames
+591	u	0	Terra	terra	terra	20804	10290	https://forebears.io/brazil/surnames
+592	u	0	Macena	macena	macena	20760	10312	https://forebears.io/brazil/surnames
+594	u	0	de Godoy	de_godoy	degodoy	20563	10411	https://forebears.io/brazil/surnames
+595	u	0	Roberto	roberto	roberto	20551	10417	https://forebears.io/brazil/surnames
+596	u	0	Claro	claro	claro	20527	10429	https://forebears.io/brazil/surnames
+597	u	0	Bessa	bessa	bessa	20524	10430	https://forebears.io/brazil/surnames
+598	u	0	Nepomuceno	nepomuceno	nepomuceno	20466	10460	https://forebears.io/brazil/surnames
+599	u	0	de Nazare	de_nazare	denazare	20428	10479	https://forebears.io/brazil/surnames
+600	u	0	Mourao	mourao	mourao	20417	10485	https://forebears.io/brazil/surnames
+601	u	0	Seixas	seixas	seixas	20399	10494	https://forebears.io/brazil/surnames
+602	u	0	Alves Pereira	alves_pereira	alvespereira	20393	10497	https://forebears.io/brazil/surnames
+604	u	0	Dal	dal	dal	20284	10554	https://forebears.io/brazil/surnames
+605	u	0	Godoi	godoi	godoi	20193	10601	https://forebears.io/brazil/surnames
+606	u	0	Navarro	navarro	navarro	20173	10612	https://forebears.io/brazil/surnames
+607	u	0	Anjos	anjos	anjos	20045	10680	https://forebears.io/brazil/surnames
+608	u	0	Gouvea	gouvea	gouvea	20024	10691	https://forebears.io/brazil/surnames
+609	u	0	Ximenes	ximenes	ximenes	20014	10696	https://forebears.io/brazil/surnames
+610	u	0	Izidoro	izidoro	izidoro	20007	10700	https://forebears.io/brazil/surnames
+611	u	0	Tiburcio	tiburcio	tiburcio	19999	10704	https://forebears.io/brazil/surnames
+612	u	0	Sartori	sartori	sartori	19878	10769	https://forebears.io/brazil/surnames
+613	u	0	Alonso	alonso	alonso	19875	10771	https://forebears.io/brazil/surnames
+614	u	0	Barcellos	barcellos	barcellos	19838	10791	https://forebears.io/brazil/surnames
+615	u	0	Fontoura	fontoura	fontoura	19820	10801	https://forebears.io/brazil/surnames
+616	u	0	Leandro	leandro	leandro	19770	10828	https://forebears.io/brazil/surnames
+617	u	0	de Fatima Silva	de_fatima_silva	defatimasilva	19753	10838	https://forebears.io/brazil/surnames
+618	u	0	de Vargas	de_vargas	devargas	19751	10839	https://forebears.io/brazil/surnames
+619	u	0	Vitorio	vitorio	vitorio	19743	10843	https://forebears.io/brazil/surnames
+620	u	0	Narciso	narciso	narciso	19740	10845	https://forebears.io/brazil/surnames
+621	u	0	da Trindade	da_trindade	datrindade	19679	10878	https://forebears.io/brazil/surnames
+622	u	0	de Quadros	de_quadros	dequadros	19676	10880	https://forebears.io/brazil/surnames
+623	u	0	Soares da Silva	soares_da_silva	soaresdasilva	19660	10889	https://forebears.io/brazil/surnames
+624	u	0	Casagrande	casagrande	casagrande	19617	10913	https://forebears.io/brazil/surnames
+625	u	0	Batista da Silva	batista_da_silva	batistadasilva	19402	11034	https://forebears.io/brazil/surnames
+626	u	0	Boaventura	boaventura	boaventura	19383	11044	https://forebears.io/brazil/surnames
+627	u	0	Gadelha	gadelha	gadelha	19341	11068	https://forebears.io/brazil/surnames
+628	u	0	Gimenes	gimenes	gimenes	19279	11104	https://forebears.io/brazil/surnames
+629	u	0	Basso	basso	basso	19273	11107	https://forebears.io/brazil/surnames
+630	u	0	de Lemos	de_lemos	delemos	19251	11120	https://forebears.io/brazil/surnames
+631	u	0	de Jesus Silva	de_jesus_silva	dejesussilva	19236	11129	https://forebears.io/brazil/surnames
+632	u	0	Dorneles	dorneles	dorneles	19234	11130	https://forebears.io/brazil/surnames
+633	u	0	Nazario	nazario	nazario	19195	11153	https://forebears.io/brazil/surnames
+634	u	0	Pereira de Souza	pereira_de_souza	pereiradesouza	19165	11170	https://forebears.io/brazil/surnames
+635	u	0	Henrique Gomes	henrique_gomes	henriquegomes	19162	11172	https://forebears.io/brazil/surnames
+636	u	0	Furlan	furlan	furlan	19152	11178	https://forebears.io/brazil/surnames
+637	u	0	Mafra	mafra	mafra	19146	11181	https://forebears.io/brazil/surnames
+638	u	0	Damaceno	damaceno	damaceno	19137	11186	https://forebears.io/brazil/surnames
+639	u	0	Bentes	bentes	bentes	19115	11199	https://forebears.io/brazil/surnames
+640	u	0	de Lurdes	de_lurdes	delurdes	18987	11275	https://forebears.io/brazil/surnames
+641	u	0	Dionizio	dionizio	dionizio	18976	11281	https://forebears.io/brazil/surnames
+642	u	0	Pio	pio	pio	18974	11283	https://forebears.io/brazil/surnames
+643	u	0	da Gama	da_gama	dagama	18947	11299	https://forebears.io/brazil/surnames
+644	u	0	de Lucena	de_lucena	delucena	18860	11351	https://forebears.io/brazil/surnames
+645	u	0	da Anunciacao	da_anunciacao	daanunciacao	18832	11368	https://forebears.io/brazil/surnames
+646	u	0	Prudencio	prudencio	prudencio	18769	11406	https://forebears.io/brazil/surnames
+647	u	0	Ayres	ayres	ayres	18766	11408	https://forebears.io/brazil/surnames
+648	u	0	da Silva Santos	da_silva_santos	dasilvasantos	18745	11420	https://forebears.io/brazil/surnames
+649	u	0	de Fatima Pereira	de_fatima_pereira	defatimapereira	18731	11429	https://forebears.io/brazil/surnames
+650	u	0	Gualberto	gualberto	gualberto	18640	11485	https://forebears.io/brazil/surnames
+650	u	0	Ramires	ramires	ramires	18640	11485	https://forebears.io/brazil/surnames
+652	u	0	das Merces	das_merces	dasmerces	18625	11494	https://forebears.io/brazil/surnames
+652	u	0	Magela	magela	magela	18625	11494	https://forebears.io/brazil/surnames
+654	u	0	Barbosa da Silva	barbosa_da_silva	barbosadasilva	18564	11532	https://forebears.io/brazil/surnames
+655	u	0	Uchoa	uchoa	uchoa	18461	11596	https://forebears.io/brazil/surnames
+656	u	0	Lopes da Silva	lopes_da_silva	lopesdasilva	18458	11598	https://forebears.io/brazil/surnames
+657	u	0	Luna	luna	luna	18447	11605	https://forebears.io/brazil/surnames
+658	u	0	Tobias	tobias	tobias	18424	11619	https://forebears.io/brazil/surnames
+659	u	0	Berto	berto	berto	18399	11635	https://forebears.io/brazil/surnames
+660	u	0	Cortes	cortes	cortes	18393	11639	https://forebears.io/brazil/surnames
+662	u	0	Pascoal	pascoal	pascoal	18335	11676	https://forebears.io/brazil/surnames
+663	u	0	Sanchez	sanchez	sanchez	18283	11709	https://forebears.io/brazil/surnames
+664	u	0	Juliao	juliao	juliao	18270	11717	https://forebears.io/brazil/surnames
+665	u	0	Reboucas	reboucas	reboucas	18196	11765	https://forebears.io/brazil/surnames
+666	u	0	Schmitt	schmitt	schmitt	18171	11781	https://forebears.io/brazil/surnames
+667	u	0	de Lourdes da Silva	de_lourdes_da_silva	delourdesdasilva	18146	11797	https://forebears.io/brazil/surnames
+668	u	0	dos Santos Silva	dos_santos_silva	dossantossilva	18089	11835	https://forebears.io/brazil/surnames
+669	u	0	Schmitz	schmitz	schmitz	18056	11856	https://forebears.io/brazil/surnames
+670	u	0	Fontana	fontana	fontana	18050	11860	https://forebears.io/brazil/surnames
+671	u	0	Rosa da Silva	rosa_da_silva	rosadasilva	17991	11899	https://forebears.io/brazil/surnames
+672	u	0	Ricardo	ricardo	ricardo	17988	11901	https://forebears.io/brazil/surnames
+673	u	0	Paim	paim	paim	17942	11931	https://forebears.io/brazil/surnames
+674	u	0	Ponciano	ponciano	ponciano	17935	11936	https://forebears.io/brazil/surnames
+675	u	0	de Pontes	de_pontes	depontes	17872	11978	https://forebears.io/brazil/surnames
+676	u	0	Fermino	fermino	fermino	17830	12006	https://forebears.io/brazil/surnames
+677	u	0	Martin	martin	martin	17819	12014	https://forebears.io/brazil/surnames
+678	u	0	Jordao	jordao	jordao	17779	12041	https://forebears.io/brazil/surnames
+679	u	0	Benites	benites	benites	17773	12045	https://forebears.io/brazil/surnames
+681	u	0	de Pinho	de_pinho	depinho	17697	12097	https://forebears.io/brazil/surnames
+682	u	0	Raimundo	raimundo	raimundo	17694	12099	https://forebears.io/brazil/surnames
+683	u	0	Taveira	taveira	taveira	17673	12113	https://forebears.io/brazil/surnames
+684	u	0	das Virgens	das_virgens	dasvirgens	17630	12143	https://forebears.io/brazil/surnames
+685	u	0	Salvador	salvador	salvador	17611	12156	https://forebears.io/brazil/surnames
+686	u	0	Valadares	valadares	valadares	17604	12161	https://forebears.io/brazil/surnames
+687	u	0	Vasconcellos	vasconcellos	vasconcellos	17595	12167	https://forebears.io/brazil/surnames
+688	u	0	Quadros	quadros	quadros	17570	12184	https://forebears.io/brazil/surnames
+689	u	0	Bernardi	bernardi	bernardi	17569	12185	https://forebears.io/brazil/surnames
+690	u	0	Cristina	cristina	cristina	17512	12224	https://forebears.io/brazil/surnames
+691	u	0	Baia	baia	baia	17486	12243	https://forebears.io/brazil/surnames
+692	u	0	de Goes	de_goes	degoes	17429	12283	https://forebears.io/brazil/surnames
+693	u	0	Fiuza	fiuza	fiuza	17416	12292	https://forebears.io/brazil/surnames
+694	u	0	Molina	molina	molina	17369	12325	https://forebears.io/brazil/surnames
+695	u	0	Vieira da Silva	vieira_da_silva	vieiradasilva	17354	12336	https://forebears.io/brazil/surnames
+696	u	0	de Padua	de_padua	depadua	17334	12350	https://forebears.io/brazil/surnames
+697	u	0	Pessanha	pessanha	pessanha	17292	12380	https://forebears.io/brazil/surnames
+698	u	0	Alvares	alvares	alvares	17248	12412	https://forebears.io/brazil/surnames
+699	u	0	Salomao	salomao	salomao	17244	12414	https://forebears.io/brazil/surnames
+700	u	0	Fragoso	fragoso	fragoso	17239	12418	https://forebears.io/brazil/surnames
+701	u	0	Hipolito	hipolito	hipolito	17184	12458	https://forebears.io/brazil/surnames
+702	u	0	Palma	palma	palma	17034	12567	https://forebears.io/brazil/surnames
+703	u	0	de Borba	de_borba	deborba	17012	12584	https://forebears.io/brazil/surnames
+704	u	0	Cortez	cortez	cortez	16931	12644	https://forebears.io/brazil/surnames
+705	u	0	de Resende	de_resende	deresende	16880	12682	https://forebears.io/brazil/surnames
+706	u	0	Mantovani	mantovani	mantovani	16868	12691	https://forebears.io/brazil/surnames
+707	u	0	Felisberto	felisberto	felisberto	16821	12727	https://forebears.io/brazil/surnames
+708	u	0	da Graca	da_graca	dagraca	16814	12732	https://forebears.io/brazil/surnames
+709	u	0	Trevisan	trevisan	trevisan	16787	12752	https://forebears.io/brazil/surnames
+710	u	0	Benevides	benevides	benevides	16756	12776	https://forebears.io/brazil/surnames
+711	u	0	Paulo	paulo	paulo	16687	12829	https://forebears.io/brazil/surnames
+712	u	0	de Lacerda	de_lacerda	delacerda	16620	12881	https://forebears.io/brazil/surnames
+713	u	0	de Holanda	de_holanda	deholanda	16503	12972	https://forebears.io/brazil/surnames
+714	u	0	Felizardo	felizardo	felizardo	16423	13035	https://forebears.io/brazil/surnames
+715	u	0	Colombo	colombo	colombo	16370	13077	https://forebears.io/brazil/surnames
+716	u	0	Salviano	salviano	salviano	16337	13104	https://forebears.io/brazil/surnames
+717	u	0	Oliveira da Silva	oliveira_da_silva	oliveiradasilva	16303	13131	https://forebears.io/brazil/surnames
+718	u	0	Bianchi	bianchi	bianchi	16148	13257	https://forebears.io/brazil/surnames
+719	u	0	Aparecida	aparecida	aparecida	16135	13268	https://forebears.io/brazil/surnames
+720	u	0	da Veiga	da_veiga	daveiga	16108	13290	https://forebears.io/brazil/surnames
+721	u	0	de Fatima Ferreira	de_fatima_ferreira	defatimaferreira	16078	13315	https://forebears.io/brazil/surnames
+722	u	0	Freires	freires	freires	16065	13326	https://forebears.io/brazil/surnames
+723	u	0	Henrique Souza	henrique_souza	henriquesouza	16053	13335	https://forebears.io/brazil/surnames
+724	u	0	da Conceicao Silva	da_conceicao_silva	daconceicaosilva	16007	13374	https://forebears.io/brazil/surnames
+725	u	0	Roza	roza	roza	15982	13395	https://forebears.io/brazil/surnames
+726	u	0	Parreira	parreira	parreira	15959	13414	https://forebears.io/brazil/surnames
+727	u	0	Lustosa	lustosa	lustosa	15954	13418	https://forebears.io/brazil/surnames
+728	u	0	Raposo	raposo	raposo	15933	13436	https://forebears.io/brazil/surnames
+730	u	0	Caires	caires	caires	15890	13472	https://forebears.io/brazil/surnames
+731	u	0	Monte	monte	monte	15882	13479	https://forebears.io/brazil/surnames
+732	u	0	Damasio	damasio	damasio	15875	13485	https://forebears.io/brazil/surnames
+732	u	0	Malta	malta	malta	15875	13485	https://forebears.io/brazil/surnames
+734	u	0	de Fatima Alves	de_fatima_alves	defatimaalves	15856	13501	https://forebears.io/brazil/surnames
+735	u	0	Sobreira	sobreira	sobreira	15802	13547	https://forebears.io/brazil/surnames
+736	u	0	Rech	rech	rech	15796	13552	https://forebears.io/brazil/surnames
+737	u	0	de Jesus Santos	de_jesus_santos	dejesussantos	15739	13602	https://forebears.io/brazil/surnames
+738	u	0	Laureano	laureano	laureano	15699	13636	https://forebears.io/brazil/surnames
+739	u	0	Eleuterio	eleuterio	eleuterio	15644	13684	https://forebears.io/brazil/surnames
+740	u	0	Martini	martini	martini	15621	13704	https://forebears.io/brazil/surnames
+741	u	0	Barbieri	barbieri	barbieri	15610	13714	https://forebears.io/brazil/surnames
+742	u	0	Fernandes da Silva	fernandes_da_silva	fernandesdasilva	15574	13746	https://forebears.io/brazil/surnames
+743	u	0	Urbano	urbano	urbano	15500	13811	https://forebears.io/brazil/surnames
+744	u	0	Albano	albano	albano	15353	13943	https://forebears.io/brazil/surnames
+745	u	0	Ferreira de Souza	ferreira_de_souza	ferreiradesouza	15333	13962	https://forebears.io/brazil/surnames
+746	u	0	Anunciacao	anunciacao	anunciacao	15304	13988	https://forebears.io/brazil/surnames
+747	u	0	Fischer	fischer	fischer	15300	13992	https://forebears.io/brazil/surnames
+748	u	0	Martinelli	martinelli	martinelli	15157	14124	https://forebears.io/brazil/surnames
+749	u	0	Rodrigues de Oliveira	rodrigues_de_oliveira	rodriguesdeoliveira	15136	14143	https://forebears.io/brazil/surnames
+750	u	0	Avelar	avelar	avelar	15078	14198	https://forebears.io/brazil/surnames
+751	u	0	Alves Ferreira	alves_ferreira	alvesferreira	15076	14200	https://forebears.io/brazil/surnames
+752	u	0	Lago	lago	lago	15041	14233	https://forebears.io/brazil/surnames
+753	u	0	Madureira	madureira	madureira	15016	14256	https://forebears.io/brazil/surnames
+754	u	0	de Jesus Pereira	de_jesus_pereira	dejesuspereira	15014	14258	https://forebears.io/brazil/surnames
+755	u	0	Hernandes	hernandes	hernandes	15011	14261	https://forebears.io/brazil/surnames
+756	u	0	Valeriano	valeriano	valeriano	14979	14292	https://forebears.io/brazil/surnames
+757	u	0	de Fatima dos Santos	de_fatima_dos_santos	defatimadossantos	14922	14346	https://forebears.io/brazil/surnames
+758	u	0	Caitano	caitano	caitano	14916	14352	https://forebears.io/brazil/surnames
+759	u	0	Seabra	seabra	seabra	14912	14356	https://forebears.io/brazil/surnames
+760	u	0	Gonsalves	gonsalves	gonsalves	14898	14369	https://forebears.io/brazil/surnames
+761	u	0	Meirelles	meirelles	meirelles	14870	14396	https://forebears.io/brazil/surnames
+761	u	0	Rodriguez	rodriguez	rodriguez	14870	14396	https://forebears.io/brazil/surnames
+763	u	0	Fontenele	fontenele	fontenele	14866	14400	https://forebears.io/brazil/surnames
+764	u	0	Lino	lino	lino	14849	14417	https://forebears.io/brazil/surnames
+765	u	0	Netto	netto	netto	14801	14464	https://forebears.io/brazil/surnames
+766	u	0	Colares	colares	colares	14751	14513	https://forebears.io/brazil/surnames
+767	u	0	Osorio	osorio	osorio	14749	14514	https://forebears.io/brazil/surnames
+768	u	0	Gimenez	gimenez	gimenez	14704	14559	https://forebears.io/brazil/surnames
+769	u	0	Parente	parente	parente	14703	14560	https://forebears.io/brazil/surnames
+770	u	0	Sato	sato	sato	14674	14589	https://forebears.io/brazil/surnames
+771	u	0	Leopoldino	leopoldino	leopoldino	14670	14593	https://forebears.io/brazil/surnames
+772	u	0	Rodrigues de Souza	rodrigues_de_souza	rodriguesdesouza	14614	14649	https://forebears.io/brazil/surnames
+773	u	0	Gomes dos Santos	gomes_dos_santos	gomesdossantos	14611	14652	https://forebears.io/brazil/surnames
+774	u	0	Cesar	cesar	cesar	14594	14669	https://forebears.io/brazil/surnames
+775	u	0	do Rocio	do_rocio	dorocio	14579	14684	https://forebears.io/brazil/surnames
+776	u	0	Domiciano	domiciano	domiciano	14484	14780	https://forebears.io/brazil/surnames
+777	u	0	Darc	darc	darc	14444	14821	https://forebears.io/brazil/surnames
+778	u	0	de Gois	de_gois	degois	14382	14885	https://forebears.io/brazil/surnames
+779	u	0	Marin	marin	marin	14373	14894	https://forebears.io/brazil/surnames
+780	u	0	Duque	duque	duque	14344	14924	https://forebears.io/brazil/surnames
+781	u	0	Nicacio	nicacio	nicacio	14327	14942	https://forebears.io/brazil/surnames
+782	u	0	do Socorro da Silva	do_socorro_da_silva	dosocorrodasilva	14305	14965	https://forebears.io/brazil/surnames
+783	u	0	Belem	belem	belem	14304	14966	https://forebears.io/brazil/surnames
+784	u	0	Balduino	balduino	balduino	14270	15002	https://forebears.io/brazil/surnames
+785	u	0	Morales	morales	morales	14260	15012	https://forebears.io/brazil/surnames
+786	u	0	de Fatima Rodrigues	de_fatima_rodrigues	defatimarodrigues	14202	15074	https://forebears.io/brazil/surnames
+787	u	0	Elisa	elisa	elisa	14169	15109	https://forebears.io/brazil/surnames
+788	u	0	Sant Anna	sant_anna	santanna	14142	15137	https://forebears.io/brazil/surnames
+789	u	0	Sant	sant	sant	14112	15170	https://forebears.io/brazil/surnames
+790	u	0	Fernandez	fernandez	fernandez	14100	15183	https://forebears.io/brazil/surnames
+791	u	0	Prata	prata	prata	14068	15217	https://forebears.io/brazil/surnames
+792	u	0	Henrique Ribeiro	henrique_ribeiro	henriqueribeiro	14055	15231	https://forebears.io/brazil/surnames
+793	u	0	Serpa	serpa	serpa	14050	15237	https://forebears.io/brazil/surnames
+794	u	0	Abadia	abadia	abadia	14038	15250	https://forebears.io/brazil/surnames
+795	u	0	Querino	querino	querino	13982	15311	https://forebears.io/brazil/surnames
+796	u	0	Jacinto	jacinto	jacinto	13889	15413	https://forebears.io/brazil/surnames
+797	u	0	de Godoi	de_godoi	degodoi	13874	15430	https://forebears.io/brazil/surnames
+798	u	0	Milani	milani	milani	13830	15479	https://forebears.io/brazil/surnames
+799	u	0	Tolentino	tolentino	tolentino	13808	15504	https://forebears.io/brazil/surnames
+800	u	0	Severino	severino	severino	13806	15506	https://forebears.io/brazil/surnames
+801	u	0	Martinho	martinho	martinho	13798	15515	https://forebears.io/brazil/surnames
+802	u	0	Vasques	vasques	vasques	13778	15537	https://forebears.io/brazil/surnames
+803	u	0	Affonso	affonso	affonso	13737	15584	https://forebears.io/brazil/surnames
+804	u	0	Natal	natal	natal	13731	15591	https://forebears.io/brazil/surnames
+805	u	0	Proenca	proenca	proenca	13670	15660	https://forebears.io/brazil/surnames
+806	u	0	da Motta	da_motta	damotta	13585	15758	https://forebears.io/brazil/surnames
+807	u	0	Luciano	luciano	luciano	13517	15837	https://forebears.io/brazil/surnames
+808	u	0	Vitoriano	vitoriano	vitoriano	13500	15857	https://forebears.io/brazil/surnames
+809	u	0	Loiola	loiola	loiola	13477	15884	https://forebears.io/brazil/surnames
+810	u	0	Santos da Silva	santos_da_silva	santosdasilva	13423	15948	https://forebears.io/brazil/surnames
+811	u	0	Batista dos Santos	batista_dos_santos	batistadossantos	13421	15951	https://forebears.io/brazil/surnames
+812	u	0	Manoel	manoel	manoel	13358	16026	https://forebears.io/brazil/surnames
+813	u	0	Vilas Boas	vilas_boas	vilasboas	13313	16080	https://forebears.io/brazil/surnames
+814	u	0	Lage	lage	lage	13307	16087	https://forebears.io/brazil/surnames
+815	u	0	Bahia	bahia	bahia	13284	16115	https://forebears.io/brazil/surnames
+816	u	0	Palheta	palheta	palheta	13249	16158	https://forebears.io/brazil/surnames
+817	u	0	Kruger	kruger	kruger	13233	16177	https://forebears.io/brazil/surnames
+818	u	0	Garcez	garcez	garcez	13210	16205	https://forebears.io/brazil/surnames
+819	u	0	Henrique Lima	henrique_lima	henriquelima	13197	16221	https://forebears.io/brazil/surnames
+820	u	0	Martins da Silva	martins_da_silva	martinsdasilva	13187	16234	https://forebears.io/brazil/surnames
+821	u	0	Paula	paula	paula	13162	16265	https://forebears.io/brazil/surnames
+822	u	0	Patrocinio	patrocinio	patrocinio	13113	16325	https://forebears.io/brazil/surnames
+823	u	0	Frota	frota	frota	13104	16337	https://forebears.io/brazil/surnames
+824	u	0	do Livramento	do_livramento	dolivramento	13092	16352	https://forebears.io/brazil/surnames
+825	u	0	Jesus	jesus	jesus	13062	16389	https://forebears.io/brazil/surnames
+826	u	0	Bertoldo	bertoldo	bertoldo	13049	16405	https://forebears.io/brazil/surnames
+827	u	0	de Lourdes Pereira	de_lourdes_pereira	delourdespereira	13046	16409	https://forebears.io/brazil/surnames
+828	u	0	Ribeiro dos Santos	ribeiro_dos_santos	ribeirodossantos	13022	16439	https://forebears.io/brazil/surnames
+829	u	0	Moretti	moretti	moretti	12982	16490	https://forebears.io/brazil/surnames
+830	u	0	Benedito	benedito	benedito	12975	16499	https://forebears.io/brazil/surnames
+831	u	0	Dornelas	dornelas	dornelas	12957	16522	https://forebears.io/brazil/surnames
+832	u	0	Daniel	daniel	daniel	12948	16533	https://forebears.io/brazil/surnames
+833	u	0	Moro	moro	moro	12937	16547	https://forebears.io/brazil/surnames
+834	u	0	de Ramos	de_ramos	deramos	12850	16659	https://forebears.io/brazil/surnames
+835	u	0	Stein	stein	stein	12846	16665	https://forebears.io/brazil/surnames
+836	u	0	Guilherme	guilherme	guilherme	12834	16680	https://forebears.io/brazil/surnames
+837	u	0	Escobar	escobar	escobar	12765	16770	https://forebears.io/brazil/surnames
+838	u	0	Naves	naves	naves	12757	16781	https://forebears.io/brazil/surnames
+839	u	0	Gomes de Oliveira	gomes_de_oliveira	gomesdeoliveira	12751	16789	https://forebears.io/brazil/surnames
+840	u	0	Wagner	wagner	wagner	12746	16795	https://forebears.io/brazil/surnames
+841	u	0	do Rego	do_rego	dorego	12733	16813	https://forebears.io/brazil/surnames
+842	u	0	Ortega	ortega	ortega	12725	16823	https://forebears.io/brazil/surnames
+843	u	0	Zanella	zanella	zanella	12720	16830	https://forebears.io/brazil/surnames
+844	u	0	Henrique Soares	henrique_soares	henriquesoares	12719	16831	https://forebears.io/brazil/surnames
+845	u	0	Petry	petry	petry	12692	16867	https://forebears.io/brazil/surnames
+846	u	0	Pestana	pestana	pestana	12619	16964	https://forebears.io/brazil/surnames
+847	u	0	de Lourdes Silva	de_lourdes_silva	delourdessilva	12600	16990	https://forebears.io/brazil/surnames
+848	u	0	Baltazar	baltazar	baltazar	12599	16991	https://forebears.io/brazil/surnames
+849	u	0	Montenegro	montenegro	montenegro	12584	17012	https://forebears.io/brazil/surnames
+850	u	0	Marcon	marcon	marcon	12575	17024	https://forebears.io/brazil/surnames
+851	u	0	Kuhn	kuhn	kuhn	12571	17029	https://forebears.io/brazil/surnames
+852	u	0	Abrantes	abrantes	abrantes	12570	17031	https://forebears.io/brazil/surnames
+853	u	0	Marques da Silva	marques_da_silva	marquesdasilva	12562	17041	https://forebears.io/brazil/surnames
+854	u	0	Ciriaco	ciriaco	ciriaco	12552	17055	https://forebears.io/brazil/surnames
+855	u	0	Cantanhede	cantanhede	cantanhede	12550	17058	https://forebears.io/brazil/surnames
+856	u	0	Scherer	scherer	scherer	12526	17090	https://forebears.io/brazil/surnames
+857	u	0	Mayer	mayer	mayer	12520	17099	https://forebears.io/brazil/surnames
+858	u	0	Gondim	gondim	gondim	12473	17163	https://forebears.io/brazil/surnames
+859	u	0	Azeredo	azeredo	azeredo	12457	17185	https://forebears.io/brazil/surnames
+860	u	0	Dornelles	dornelles	dornelles	12453	17191	https://forebears.io/brazil/surnames
+861	u	0	Geraldo	geraldo	geraldo	12449	17196	https://forebears.io/brazil/surnames
+862	u	0	Zanetti	zanetti	zanetti	12444	17203	https://forebears.io/brazil/surnames
+863	u	0	Pedreira	pedreira	pedreira	12437	17213	https://forebears.io/brazil/surnames
+864	u	0	Henrique Gonçalves	henrique_gonçalves	henriquegoncalves	12429	17224	https://forebears.io/brazil/surnames
+865	u	0	Dalla	dalla	dalla	12417	17240	https://forebears.io/brazil/surnames
+866	u	0	Vilhena	vilhena	vilhena	12384	17286	https://forebears.io/brazil/surnames
+867	u	0	Caixeta	caixeta	caixeta	12381	17291	https://forebears.io/brazil/surnames
+868	u	0	da Guia	da_guia	daguia	12380	17292	https://forebears.io/brazil/surnames
+869	u	0	Silva dos Santos	silva_dos_santos	silvadossantos	12377	17296	https://forebears.io/brazil/surnames
+870	u	0	Crisostomo	crisostomo	crisostomo	12301	17403	https://forebears.io/brazil/surnames
+871	u	0	Piedade	piedade	piedade	12261	17460	https://forebears.io/brazil/surnames
+871	u	0	Sardinha	sardinha	sardinha	12261	17460	https://forebears.io/brazil/surnames
+871	u	0	Taborda	taborda	taborda	12261	17460	https://forebears.io/brazil/surnames
+874	u	0	Gurgel	gurgel	gurgel	12250	17475	https://forebears.io/brazil/surnames
+875	u	0	Romeiro	romeiro	romeiro	12245	17483	https://forebears.io/brazil/surnames
+876	u	0	Andre	andre	andre	12211	17531	https://forebears.io/brazil/surnames
+877	u	0	Simon	simon	simon	12196	17553	https://forebears.io/brazil/surnames
+878	u	0	Henrique Martins	henrique_martins	henriquemartins	12193	17557	https://forebears.io/brazil/surnames
+879	u	0	Portugal	portugal	portugal	12169	17592	https://forebears.io/brazil/surnames
+880	u	0	David	david	david	12156	17611	https://forebears.io/brazil/surnames
+881	u	0	Aprigio	aprigio	aprigio	12136	17640	https://forebears.io/brazil/surnames
+882	u	0	Justo	justo	justo	12124	17657	https://forebears.io/brazil/surnames
+883	u	0	de Fatima Oliveira	de_fatima_oliveira	defatimaoliveira	12103	17688	https://forebears.io/brazil/surnames
+884	u	0	Praxedes	praxedes	praxedes	12093	17702	https://forebears.io/brazil/surnames
+885	u	0	Batalha	batalha	batalha	12082	17718	https://forebears.io/brazil/surnames
+887	u	0	Zimmermann	zimmermann	zimmermann	11965	17892	https://forebears.io/brazil/surnames
+888	u	0	Gontijo	gontijo	gontijo	11963	17895	https://forebears.io/brazil/surnames
+889	u	0	Duraes	duraes	duraes	11879	18021	https://forebears.io/brazil/surnames
+890	u	0	das Gracas Silva	das_gracas_silva	dasgracassilva	11864	18044	https://forebears.io/brazil/surnames
+891	u	0	Firmo	firmo	firmo	11846	18071	https://forebears.io/brazil/surnames
+892	u	0	Limeira	limeira	limeira	11833	18091	https://forebears.io/brazil/surnames
+893	u	0	Amador	amador	amador	11828	18099	https://forebears.io/brazil/surnames
+894	u	0	Policarpo	policarpo	policarpo	11804	18136	https://forebears.io/brazil/surnames
+895	u	0	Pina	pina	pina	11803	18137	https://forebears.io/brazil/surnames
+896	u	0	Izidio	izidio	izidio	11801	18140	https://forebears.io/brazil/surnames
+897	u	0	Moreira da Silva	moreira_da_silva	moreiradasilva	11794	18151	https://forebears.io/brazil/surnames
+898	u	0	Frutuoso	frutuoso	frutuoso	11789	18159	https://forebears.io/brazil/surnames
+899	u	0	Favero	favero	favero	11767	18193	https://forebears.io/brazil/surnames
+900	u	0	de Maria	de_maria	demaria	11762	18201	https://forebears.io/brazil/surnames
+901	u	0	de Jesus da Silva	de_jesus_da_silva	dejesusdasilva	11697	18302	https://forebears.io/brazil/surnames
+901	u	0	Zago	zago	zago	11697	18302	https://forebears.io/brazil/surnames
+903	u	0	Simas	simas	simas	11680	18328	https://forebears.io/brazil/surnames
+904	u	0	Teotonio	teotonio	teotonio	11679	18330	https://forebears.io/brazil/surnames
+905	u	0	Lopez	lopez	lopez	11661	18358	https://forebears.io/brazil/surnames
+906	u	0	Vilar	vilar	vilar	11631	18405	https://forebears.io/brazil/surnames
+907	u	0	Froes	froes	froes	11630	18407	https://forebears.io/brazil/surnames
+908	u	0	de Jesus Ferreira	de_jesus_ferreira	dejesusferreira	11603	18450	https://forebears.io/brazil/surnames
+909	u	0	Beraldo	beraldo	beraldo	11583	18482	https://forebears.io/brazil/surnames
+910	u	0	Roseno	roseno	roseno	11582	18483	https://forebears.io/brazil/surnames
+911	u	0	Venceslau	venceslau	venceslau	11563	18514	https://forebears.io/brazil/surnames
+912	u	0	Prudente	prudente	prudente	11561	18517	https://forebears.io/brazil/surnames
+913	u	0	Paschoal	paschoal	paschoal	11560	18519	https://forebears.io/brazil/surnames
+914	u	0	Conde	conde	conde	11551	18533	https://forebears.io/brazil/surnames
+915	u	0	Fideles	fideles	fideles	11495	18623	https://forebears.io/brazil/surnames
+916	u	0	Silva Santos	silva_santos	silvasantos	11489	18633	https://forebears.io/brazil/surnames
+917	u	0	Cassemiro	cassemiro	cassemiro	11483	18643	https://forebears.io/brazil/surnames
+918	u	0	Albino	albino	albino	11461	18679	https://forebears.io/brazil/surnames
+919	u	0	Henrique Costa	henrique_costa	henriquecosta	11459	18682	https://forebears.io/brazil/surnames
+920	u	0	Longo	longo	longo	11449	18698	https://forebears.io/brazil/surnames
+921	u	0	Alvim	alvim	alvim	11443	18708	https://forebears.io/brazil/surnames
+922	u	0	Estrela	estrela	estrela	11438	18716	https://forebears.io/brazil/surnames
+923	u	0	Pavan	pavan	pavan	11411	18760	https://forebears.io/brazil/surnames
+924	u	0	Alvarez	alvarez	alvarez	11405	18770	https://forebears.io/brazil/surnames
+925	u	0	Amarante	amarante	amarante	11401	18777	https://forebears.io/brazil/surnames
+926	u	0	Nunes da Silva	nunes_da_silva	nunesdasilva	11375	18820	https://forebears.io/brazil/surnames
+927	u	0	Henrique Barbosa	henrique_barbosa	henriquebarbosa	11374	18821	https://forebears.io/brazil/surnames
+928	u	0	Calazans	calazans	calazans	11355	18853	https://forebears.io/brazil/surnames
+929	u	0	Thome	thome	thome	11335	18886	https://forebears.io/brazil/surnames
+930	u	0	Avelino	avelino	avelino	11266	19002	https://forebears.io/brazil/surnames
+931	u	0	Camargos	camargos	camargos	11246	19036	https://forebears.io/brazil/surnames
+932	u	0	de Alvarenga	de_alvarenga	dealvarenga	11212	19093	https://forebears.io/brazil/surnames
+933	u	0	Pereira de Oliveira	pereira_de_oliveira	pereiradeoliveira	11175	19157	https://forebears.io/brazil/surnames
+934	u	0	Ferreira Lima	ferreira_lima	ferreiralima	11167	19170	https://forebears.io/brazil/surnames
+935	u	0	do Socorro Silva	do_socorro_silva	dosocorrosilva	11133	19229	https://forebears.io/brazil/surnames
+936	u	0	Salazar	salazar	salazar	11117	19256	https://forebears.io/brazil/surnames
+937	u	0	Militao	militao	militao	11090	19303	https://forebears.io/brazil/surnames
+938	u	0	Filgueira	filgueira	filgueira	11069	19340	https://forebears.io/brazil/surnames
+939	u	0	Louzada	louzada	louzada	11067	19343	https://forebears.io/brazil/surnames
+940	u	0	Bruno	bruno	bruno	11058	19359	https://forebears.io/brazil/surnames
+941	u	0	Eduardo	eduardo	eduardo	11032	19405	https://forebears.io/brazil/surnames
+942	u	0	Acosta	acosta	acosta	10996	19468	https://forebears.io/brazil/surnames
+943	u	0	Castelo	castelo	castelo	10964	19525	https://forebears.io/brazil/surnames
+944	u	0	de Lourdes Ferreira	de_lourdes_ferreira	delourdesferreira	10946	19557	https://forebears.io/brazil/surnames
+945	u	0	Portes	portes	portes	10929	19588	https://forebears.io/brazil/surnames
+946	u	0	da Silva Oliveira	da_silva_oliveira	dasilvaoliveira	10922	19600	https://forebears.io/brazil/surnames
+947	u	0	Mamede	mamede	mamede	10851	19729	https://forebears.io/brazil/surnames
+948	u	0	Dias da Silva	dias_da_silva	diasdasilva	10841	19747	https://forebears.io/brazil/surnames
+949	u	0	Nolasco	nolasco	nolasco	10822	19781	https://forebears.io/brazil/surnames
+950	u	0	Rosa de Jesus	rosa_de_jesus	rosadejesus	10817	19791	https://forebears.io/brazil/surnames
+951	u	0	Rabello	rabello	rabello	10813	19798	https://forebears.io/brazil/surnames
+952	u	0	Catarino	catarino	catarino	10809	19805	https://forebears.io/brazil/surnames
+953	u	0	Negreiros	negreiros	negreiros	10805	19813	https://forebears.io/brazil/surnames
+954	u	0	Natividade	natividade	natividade	10791	19838	https://forebears.io/brazil/surnames
+955	u	0	Rebelo	rebelo	rebelo	10756	19903	https://forebears.io/brazil/surnames
+957	u	0	Calisto	calisto	calisto	10733	19945	https://forebears.io/brazil/surnames
+958	u	0	Terto	terto	terto	10699	20009	https://forebears.io/brazil/surnames
+959	u	0	Joaquim	joaquim	joaquim	10684	20037	https://forebears.io/brazil/surnames
+960	u	0	Manhaes	manhaes	manhaes	10663	20076	https://forebears.io/brazil/surnames
+961	u	0	da Silva Pereira	da_silva_pereira	dasilvapereira	10652	20097	https://forebears.io/brazil/surnames
+962	u	0	Schulz	schulz	schulz	10639	20122	https://forebears.io/brazil/surnames
+963	u	0	Paranhos	paranhos	paranhos	10630	20139	https://forebears.io/brazil/surnames
+964	u	0	Lucio	lucio	lucio	10611	20175	https://forebears.io/brazil/surnames
+965	u	0	de Lourdes Alves	de_lourdes_alves	delourdesalves	10591	20213	https://forebears.io/brazil/surnames
+966	u	0	da Aparecida	da_aparecida	daaparecida	10585	20224	https://forebears.io/brazil/surnames
+967	u	0	Bacelar	bacelar	bacelar	10582	20230	https://forebears.io/brazil/surnames
+968	u	0	Bernardino	bernardino	bernardino	10573	20247	https://forebears.io/brazil/surnames
+970	u	0	Rosa dos Santos	rosa_dos_santos	rosadossantos	10548	20295	https://forebears.io/brazil/surnames
+971	u	0	Pompeu	pompeu	pompeu	10545	20301	https://forebears.io/brazil/surnames
+972	u	0	Alves de Sousa	alves_de_sousa	alvesdesousa	10535	20320	https://forebears.io/brazil/surnames
+973	u	0	do Amparo	do_amparo	doamparo	10503	20382	https://forebears.io/brazil/surnames
+974	u	0	Schultz	schultz	schultz	10499	20390	https://forebears.io/brazil/surnames
+975	u	0	do Monte	do_monte	domonte	10496	20396	https://forebears.io/brazil/surnames
+976	u	0	Umbelino	umbelino	umbelino	10476	20435	https://forebears.io/brazil/surnames
+977	u	0	Carreiro	carreiro	carreiro	10468	20450	https://forebears.io/brazil/surnames
+978	u	0	de Ribamar	de_ribamar	deribamar	10462	20462	https://forebears.io/brazil/surnames
+979	u	0	Negrao	negrao	negrao	10452	20482	https://forebears.io/brazil/surnames
+980	u	0	Barreira	barreira	barreira	10449	20488	https://forebears.io/brazil/surnames
+981	u	0	Germano	germano	germano	10445	20495	https://forebears.io/brazil/surnames
+982	u	0	de Luna	de_luna	deluna	10395	20594	https://forebears.io/brazil/surnames
+983	u	0	Britto	britto	britto	10376	20632	https://forebears.io/brazil/surnames
+984	u	0	Belchior	belchior	belchior	10371	20642	https://forebears.io/brazil/surnames
+985	u	0	Vilas	vilas	vilas	10370	20644	https://forebears.io/brazil/surnames
+986	u	0	da Conceicao Pereira	da_conceicao_pereira	daconceicaopereira	10360	20664	https://forebears.io/brazil/surnames
+987	u	0	Quintanilha	quintanilha	quintanilha	10343	20698	https://forebears.io/brazil/surnames
+988	u	0	Vitor	vitor	vitor	10337	20710	https://forebears.io/brazil/surnames
+989	u	0	Ruas	ruas	ruas	10320	20744	https://forebears.io/brazil/surnames
+990	u	0	Pacifico	pacifico	pacifico	10312	20760	https://forebears.io/brazil/surnames
+991	u	0	Henrique Vieira	henrique_vieira	henriquevieira	10305	20774	https://forebears.io/brazil/surnames
+992	u	0	Alves de Lima	alves_de_lima	alvesdelima	10304	20776	https://forebears.io/brazil/surnames
+993	u	0	Henrique Lopes	henrique_lopes	henriquelopes	10264	20857	https://forebears.io/brazil/surnames
+994	u	0	Gonzales	gonzales	gonzales	10226	20934	https://forebears.io/brazil/surnames
+995	u	0	do Carmo da Silva	do_carmo_da_silva	docarmodasilva	10203	20982	https://forebears.io/brazil/surnames
+996	u	0	Portella	portella	portella	10197	20994	https://forebears.io/brazil/surnames
+997	u	0	Watanabe	watanabe	watanabe	10191	21006	https://forebears.io/brazil/surnames
+998	u	0	Calado	calado	calado	10173	21043	https://forebears.io/brazil/surnames
+999	u	0	Lima da Silva	lima_da_silva	limadasilva	10151	21089	https://forebears.io/brazil/surnames
+1000	u	0	Carolino	carolino	carolino	10145	21101	https://forebears.io/brazil/surnames
+1000	u	0	Viturino	viturino	viturino	10145	21101	https://forebears.io/brazil/surnames

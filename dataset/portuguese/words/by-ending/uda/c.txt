@@ -1,0 +1,4 @@
+cabecuda
+cabeluda
+cauda
+cuda

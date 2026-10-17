@@ -1,0 +1,4 @@
+{
+  "_note": "nick (minusculo) -> snowflake ID do Discord. Seed manual + bot guild-search futuro. Sem ID, o checker usa /users/<nick> (sem foto/banner).",
+  "adoecido": "399573634961768479"
+}

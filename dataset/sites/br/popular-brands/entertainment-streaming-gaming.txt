@@ -1,0 +1,4 @@
+band.com.br
+sbt.com.br
+terra.com.br
+uol.com.br

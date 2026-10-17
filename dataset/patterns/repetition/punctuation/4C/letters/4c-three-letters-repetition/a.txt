@@ -1,0 +1,9 @@
+a-aa
+a.aa
+a_aa
+aa-a
+aa.a
+aa_a
+aaa-
+aaa.
+aaa_

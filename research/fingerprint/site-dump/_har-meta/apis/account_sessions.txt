@@ -1,0 +1,1 @@
+{"userId":"6abffd2b10d41074f841842c","sessions":[{"id":"6abffd2b10d41074f841842f","createdAt":"2026-10-02T18:51:23.591Z","ip":"201.71.220.69","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","isGoogleLogin":true,"current":true,"location":{"country":"BR","city":"São Paulo"}}],"truncated":false}

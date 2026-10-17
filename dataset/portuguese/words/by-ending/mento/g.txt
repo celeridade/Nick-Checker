@@ -1,0 +1,4 @@
+gerenciamento
+gotejamento
+gradeamento
+grupamento

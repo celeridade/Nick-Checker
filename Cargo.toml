@@ -1,0 +1,43 @@
+[workspace]
+members = [
+    "crates/l96a1-core",
+    "crates/l96a1-proxy",
+    "crates/l96a1-dataset",
+    "crates/l96a1-checkers",
+    "crates/l96a1-bot",
+    "crates/l96a1-api",
+]
+resolver = "2"
+
+[workspace.package]
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+
+[workspace.dependencies]
+tokio = { version = "1", features = ["full"] }
+# reqwest 0.13: `rustls-tls` virou `rustls` (platform-verifier: raízes do SO);
+# `query()` virou feature opt-in.
+reqwest = { version = "0.13", default-features = false, features = ["json", "query", "rustls", "socks", "gzip"] }
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+regex = "1"
+async-trait = "0.1"
+futures = "0.3"
+chrono = "0.4"
+rand = "0.10"
+dotenvy = "0.15"
+axum = { version = "0.8", features = ["macros"] }
+tower-http = { version = "0.7", features = ["cors", "trace"] }
+tokio-stream = "0.1"
+tracing = "0.1"
+tracing-subscriber = { version = "0.3", features = ["env-filter"] }
+# poise 0.7 (serenity 0.12) — substitui o StandardFramework depreciado:
+# 1 definição = prefixo + slash (híbrido). Ver crates/l96a1-bot.
+poise = { version = "0.7" }
+
+[profile.release]
+lto = true
+codegen-units = 1
+strip = true
+opt-level = 3

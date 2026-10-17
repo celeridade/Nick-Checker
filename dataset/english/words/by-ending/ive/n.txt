@@ -1,0 +1,4 @@
+narrative
+native
+negative
+normative

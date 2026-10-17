@@ -1,0 +1,4 @@
+implementar
+incrementar
+inventar
+isentar

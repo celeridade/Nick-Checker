@@ -1,0 +1,18 @@
+[package]
+name = "l96a1-bot"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+
+[dependencies]
+tokio.workspace = true
+serde.workspace = true
+serde_json.workspace = true
+chrono.workspace = true
+futures.workspace = true
+l96a1-core = { path = "../l96a1-core" }
+l96a1-checkers = { path = "../l96a1-checkers" }
+rand.workspace = true
+poise.workspace = true
+serenity = { version = "0.12", default-features = false, features = ["client", "gateway", "rustls_backend", "model", "cache"] }
+image = { version = "0.25", default-features = false, features = ["png"] }

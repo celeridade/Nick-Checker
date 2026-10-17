@@ -1,0 +1,88 @@
+name: l96a1
+
+services:
+  db:
+    # Major 16→18: volume pgdata antigo (v16) NÃO sobe aqui — recriar
+    # (`docker compose down -v`, perde dados locais) ou pg_upgrade.
+    image: postgres:18-alpine
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER:-postgres}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-postgres}
+      POSTGRES_DB: ${POSTGRES_DB:-app_db}
+    ports:
+      - "${POSTGRES_PORT:-5432}:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER:-postgres}"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+
+  api:
+    build:
+      context: .
+      dockerfile: crates/l96a1-api/Dockerfile
+    restart: unless-stopped
+    depends_on:
+      db:
+        condition: service_healthy
+    environment:
+      PORT: 8080
+      RUST_LOG: ${RUST_LOG:-info}
+      TIMEOUT_SECS: ${TIMEOUT_SECS:-10}
+      MAX_CONCURRENT: ${MAX_CONCURRENT:-100}
+      PROXIES_FILE: /data/proxies.txt
+      DATASET_DIR: /data/dataset
+      GITHUB_TOKEN: ${GITHUB_TOKEN:-}
+      DISCORD_TOKEN: ${DISCORD_TOKEN:-}
+      THROTTLE_BATCH_SIZE: ${THROTTLE_BATCH_SIZE:-0}
+      THROTTLE_DELAY_SECS: ${THROTTLE_DELAY_SECS:-30}
+      HISTORY_FILE: /data/history.json
+      CHECKED_FILE: /data/checked.json
+      WATCHLIST_FILE: /data/watchlist.txt
+      WEBHOOK_URL: ${WEBHOOK_URL:-}
+      WEBHOOK_MODE: ${WEBHOOK_MODE:-batch}
+      BOT_TOKEN: ${BOT_TOKEN:-}
+      BOT_GUILD_ID: ${BOT_GUILD_ID:-}
+      BOT_PREFIX: ${BOT_PREFIX:-!}
+    ports:
+      - "${API_PORT:-8080}:8080"
+    volumes:
+      - ./sites.json:/data/sites.json:ro
+      - ./wmn.json:/data/wmn.json:ro
+      - ./proxies.txt:/data/proxies.txt:ro
+      - ./discord_tokens.txt:/data/discord_tokens.txt:ro
+      - ./discord_ids.json:/data/discord_ids.json:ro
+      - ./dataset:/data/dataset:ro
+      - ./results:/data/results
+      - ./history.json:/data/history.json
+      - ./checked.json:/data/checked.json
+      - ./watchlist.txt:/data/watchlist.txt
+    healthcheck:
+      test: ["CMD", "/app/l96a1-api-healthcheck"]
+      interval: 15s
+      timeout: 3s
+      retries: 3
+      start_period: 10s
+
+  web:
+    build:
+      context: ./website
+      dockerfile: Dockerfile
+    restart: unless-stopped
+    depends_on:
+      api:
+        condition: service_started
+      db:
+        condition: service_healthy
+    environment:
+      DATABASE_URL: postgres://${POSTGRES_USER:-postgres}:${POSTGRES_PASSWORD:-postgres}@db:5432/${POSTGRES_DB:-app_db}
+      L96A1_API_URL: http://api:8080
+      PORT: 3000
+    ports:
+      - "${WEB_PORT:-3000}:3000"
+
+volumes:
+  pgdata:

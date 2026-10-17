@@ -1,0 +1,40 @@
+# ---> L96A1 — template legado (a web usa .env; tokens NUNCA aqui)
+max_concurrent = 100
+timeout_secs = 10
+dataset_dir = "dataset"
+proxies_file = "proxies.txt"
+results_dir = "results"
+discord_token = ""
+# Pool p/ rotação em 429 (1 token por linha, # comenta).
+discord_tokens_file = "discord_tokens.txt"
+github_token = ""
+
+[webhook]
+url = ""
+mode = "batch"
+batch_size = 5
+
+# TTL do cache de checados: "off" = nunca expira. Ex: "30m", "12h", "3d".
+cache_ttl = "off"
+
+# Throttle opcional por plataforma (0 = desligado = tudo de uma vez).
+[throttle]
+batch_size = 0
+delay_secs = 30.0
+
+# Sniper 24h: l9 snipe [--once]
+[snipe]
+watchlist = "watchlist.txt"
+platforms = "all"
+interval_secs = 300
+notify_url = ""
+state_file = "results/snipe_state.json"
+
+# Bot Discord via web: dashboard/bot (token via BOT_TOKEN, nunca neste arquivo)
+[bot]
+token = ""
+guild_id = 0
+prefix = "!"
+verified_role = "amigos"
+captcha = true
+verify_channel_id = 0

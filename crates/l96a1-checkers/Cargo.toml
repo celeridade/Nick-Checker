@@ -1,0 +1,19 @@
+[package]
+name = "l96a1-checkers"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+
+[dependencies]
+l96a1-core = { path = "../l96a1-core" }
+tokio.workspace = true
+reqwest.workspace = true
+serde.workspace = true
+serde_json.workspace = true
+regex.workspace = true
+async-trait.workspace = true
+futures.workspace = true
+# X-Bogus (tiktok_session.rs): MD5 duplo + base64 padrão. RC4 e o
+# alfabeto custom são hand-rolled (20 linhas, sem dep extra).
+md5 = "0.8"
+base64 = "0.22"

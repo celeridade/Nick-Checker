@@ -1,0 +1,9 @@
+c-cc
+c.cc
+c_cc
+cc-c
+cc.c
+cc_c
+ccc-
+ccc.
+ccc_

@@ -1,0 +1,1 @@
+{"user":{"id":"6abffd2b10d41074f841842c","email":"drikolmao@gmail.com","plan":"free","hasPassword":false,"emailVerified":true,"googleLinked":true,"saveSearchHistory":true,"billing":{"status":null,"periodEnd":null,"cancelAtPeriodEnd":false,"pendingPlan":null,"pendingPlanAt":null,"hasBillingAccount":false}}}

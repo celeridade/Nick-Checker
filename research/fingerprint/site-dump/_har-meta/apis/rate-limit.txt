@@ -1,0 +1,1 @@
+{"search":{"used":0,"limit":10,"remaining":10,"resetAt":"2026-10-02T19:04:00.000Z"},"quota":{"used":2,"limit":25,"remaining":23,"periodEnd":"2026-11-01T00:00:00.000Z"},"plan":"free"}

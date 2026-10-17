@@ -1,0 +1,9 @@
+t-tt
+t.tt
+t_tt
+tt-t
+tt.t
+tt_t
+ttt-
+ttt.
+ttt_

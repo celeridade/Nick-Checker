@@ -1,0 +1,9 @@
+vapor
+vector
+velejador
+ventilador
+vingador
+violador
+visor
+vitor
+voador
